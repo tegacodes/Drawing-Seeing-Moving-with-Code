@@ -1,4 +1,5 @@
 <h1>Drawing, Seeing and Moving with Code</h1>
+Spring, 2016. New media elective at Purchase College.
 
 This intermediate creative coding studio explores techniques for creating dynamic, poetic and interactive artworks in code. Students will learn techniques to program movement, simulate lifelike movmement and behaviors, and develop works that respond to various inputs. Projects will be developed using open source software environments like Processing and p5.js.
 
