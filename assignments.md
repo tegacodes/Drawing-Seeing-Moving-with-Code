@@ -1,14 +1,20 @@
-<h1>Assignments</h1>
+#Assignments
 
-<h2>Assignment 1</h2>
-Due Week 3 
-Exhibition install in class Week 4
+##Assignment 1
+Lenticular Animation
+*Due Week 3*
+Exhibition install in last half of class Week 4
 
-<h2>Assignment 2</h2>
-Due Week 8
+##Assignment 2
+Digital Ecosystems
+*Due Week 8*
+Part 1:
+Part 2:
 
-<h2>Assignment 3</h2>
-Due Week 10
+##Assignment 3
+Inter-FACE!
+*Due Week 10*
 
-<h2>Assignment 4</h2>
-Due Week 14
+##Assignment 4
+Final Project
+*Due Week 14*

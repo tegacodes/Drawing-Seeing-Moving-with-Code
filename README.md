@@ -19,13 +19,13 @@ P5js is a new open source creative coding environment using the javascript progr
 **Week 3**
 - Assignment 1 due for printing at 5pm Monday
 
-<h3>Part 2: Motion and Animation</h3>
+<h3>Part 2: Algorithmic motion and animation</h3>
 
 <h3>Part 3: Live Web</h3>
 
 <h3>Part 4: Seeing</h3>
+- p5js using OSC workshop, [from this code repository.](https://github.com/tegacodes/p5js-osc)
 
 <h2><a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/assignments.md">Assigments</a></h2>
 
 <h2><a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md">Course Resources</a></h2>
-
