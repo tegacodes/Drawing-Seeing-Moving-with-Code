@@ -9,7 +9,7 @@ P5js is a new open source creative coding environment using the javascript progr
 <h2>Syllabus</h2>
 <h3>Part 1: Moving</h3>
 **Week 1**
-- Code as Medium
+- Code as medium
 - Github tutorial
 - Intro to p5js
 
@@ -21,7 +21,7 @@ P5js is a new open source creative coding environment using the javascript progr
 
 <h3>Part 2: Motion and Animation</h3>
 
-<h3>Part 3: Live Web Workshop</h3>
+<h3>Part 3: Live Web</h3>
 
 <h3>Part 4: Seeing</h3>
 
