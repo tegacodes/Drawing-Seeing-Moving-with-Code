@@ -12,8 +12,11 @@ P5js website: http://p5js.org/
 
 <h2>Debugging</h2>
 - <a href="http://p5js.org/tutorials/debugging/">Field guide to debugging. </a>
-- 
+
+
 <h2>Other class resources</h2>
+- Programming from A to Z: http://shiffman.net/teaching/a2z/week1/
+- 
 
 
 
