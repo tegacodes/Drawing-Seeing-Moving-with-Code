@@ -25,6 +25,7 @@ P5js is a new open source creative coding environment using the javascript progr
 
 <h3>Part 4: Seeing</h3>
 
-<a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/assignments.md"><h2>Assigment</h2></a>
-<a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md"><h2>Course Resources</h2></a>
+<h2><a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/assignments.md">Assigments</a></h2>
+
+<h2><a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md">Course Resources</a></h2>
 
