@@ -1,31 +1,91 @@
-<h1>Drawing, Seeing and Moving with Code</h1>
-Spring, 2016. New media elective at Purchase College.
+#Drawing, Seeing && Moving with Code
+New media elective at Purchase College.  
+Spring, 2016.  
+Tega Brain: [tega.brain@purchase.edu](mailto:tega.brain@purchase.edu)  
+Room: LIB1015A, Mon 10.30-2.10.  
+Office hours: Tuesday 11am - 1pm. [Make an appointment.](https://tegabrain.youcanbook.me/)
 
 This intermediate creative coding studio explores techniques for creating dynamic, poetic and interactive artworks in code. Students will learn techniques to program movement, simulate lifelike movmement and behaviors, and develop online and offline works that respond to various inputs. Projects will be developed using open source software environments like Processing and p5.js.
 
-<h2>What is p5js?</h2>
+##What is p5js?
 P5js is a new open source creative coding environment using the javascript programming language. It is a tool that adopts the philosophy and approach of <a href="https://processing.org/">Processing</a> but takes it to the web. It is built by a diverse community of artists, designers and developers and supports the development creative, experimental and interactive projects in the context of the web. Visit the <a href="http://p5js.org/">p5js site here.</a>
 
-<h2>Syllabus</h2>
-<h3>Part 1: Moving</h3>
-**Week 1**
-- Code as medium
-- Github tutorial
-- Intro to p5js
+##Syllabus
+###Part 1: Loops and animation
+**Week 1: 25 Jan**
 
-**Week 2**
-- Functions and objects in Javascript
+* Code as medium
+* Github workshop
+* [Intro to p5js workshop](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md)
+* Assignment 1 outlined
 
-**Week 3**
-- Assignment 1 due for printing at 5pm Monday
+**Week 2: 1 Feb**
 
-<h3>Part 2: Algorithmic motion and animation</h3>
+* Loops and animations
+* Functions and objects in Javascript
 
-<h3>Part 3: Live Web</h3>
+**Week 3: 8 Feb**
 
-<h3>Part 4: Seeing</h3>
-- p5js using OSC workshop, [from this code repository.](https://github.com/tegacodes/p5js-osc)
+* Assignment 1 due for upload by 5pm Monday
 
-<h2><a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/assignments.md">Assigments</a></h2>
 
-<h2><a href="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md">Course Resources</a></h2>
+###Part 2: Artificual life and animation
+
+**Week 4: 15 Feb**
+
+* Intro to Artificial Life and Simulation
+* Installation of lenticular exhibition (12.30-2.30)
+* Documentation workshop
+
+**Week 5: 22 Feb**
+
+**Week 6: 29 Feb (omg it's a leap year)**
+
+**Week 7: 7 Mar**
+
+**14 Mar: No class**
+
+**21 Mar: No class**
+
+**Week 8: 28 Mar**
+
+###Part 3: Live Web
+
+* Assignment 2A due today
+* Visiting artist Sam Lavigne and live web workshop
+
+###Part 4: Seeing
+
+**Week 9**
+
+* Assignment 2B due today
+* Computer vision workshop
+
+**Week 10**
+
+* Face as interface
+* p5js using OSC workshop, [from this code repository.](https://github.com/tegacodes/p5js-osc)
+
+**Week 11**
+
+* Final project proposal presentations
+* Kinect workshop
+
+**Week 12**
+
+* Studio time
+
+**Week 13**
+
+* Studio time
+
+**Week 14** 
+
+* Final assignments due in class
+
+
+##[Assigment Briefs](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/assignments.md)
+
+##[Research Resources]()
+
+##[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md)

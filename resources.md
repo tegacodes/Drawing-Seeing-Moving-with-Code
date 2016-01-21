@@ -15,8 +15,6 @@ P5js website: http://p5js.org/
 
 
 <h2>Other class resources</h2>
-- Programming from A to Z: http://shiffman.net/teaching/a2z/week1/
-- 
 
-
-
+- Programming from A to Z: http://shiffman.net/teaching/a2z/week1/  
+-   
