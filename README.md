@@ -7,15 +7,21 @@ Office hours: Tuesday 11am - 1pm. [Make an appointment.](https://tegabrain.youca
 
 This intermediate creative coding studio explores techniques for creating dynamic, poetic and interactive artworks in code. Students will learn techniques to program movement, simulate lifelike movmement and behaviors, and develop online and offline works that respond to various inputs. Projects will be developed using open source software environments like Processing and p5.js.
 
-##What is p5js?
+###What is p5js?
 P5js is a new open source creative coding environment using the javascript programming language. It is a tool that adopts the philosophy and approach of <a href="https://processing.org/">Processing</a> but takes it to the web. It is built by a diverse community of artists, designers and developers and supports the development creative, experimental and interactive projects in the context of the web. Visit the <a href="http://p5js.org/">p5js site here.</a>
+
 
 ##Learning Objectives
 
 
+###Links
+* **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/policies.md)**  
+* **[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/examples.md)**  
+* **[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/resources.md)**
+
 ##Syllabus
 ###Part 1: Loops and animation
-<img src="images/spiral-nicholas-fong-evolution.gif" width="800">
+<img src="images/spiral-nicholas-fong-evolution.gif" width="600"></br>
 *Nicholas Fong, Evolution Animated GIF*
 
 **Week 1: 25 Jan**
@@ -36,7 +42,7 @@ P5js is a new open source creative coding environment using the javascript progr
 
 
 ###Part 2: Artificial life and animation
-<img src="images/gameoflife.gif" width="800">
+<img src="images/GameOfLife.gif" width="600"></br>
 *Conway's Game of Life*
 
 **Week 4: 15 Feb**
@@ -56,7 +62,7 @@ P5js is a new open source creative coding environment using the javascript progr
 **21 Mar: No class**
 
 ###Part 3: Live Web
-<img src="images/mcdonald.gif" width="800">
+<img src="images/mcdonald.gif" width="600"></br>
 *Kyle McDonald, 2015, Exhausting a Crowd.*
 
 **Week 8: 28 Mar**
@@ -100,6 +106,3 @@ P5js is a new open source creative coding environment using the javascript progr
 * Assignment 3 - Due Week 11
 * Assignment 4 - Due Week 14
 
-##[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/examples.md)
-
-##[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/resources.md)
