@@ -87,7 +87,11 @@ P5js is a new open source creative coding environment using the javascript progr
 * Final assignments due in class
 
 
-##[Assigment Briefs](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/assignments.md)
+##Assigment Briefs
+* [Assignment 1](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/assignments.md) - Due Week 3
+* Assignment 2 - Due Week 8
+* Assignment 3 - Due Week 11
+* Assignment 4 - Due Week 14
 
 ##[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/examples.md)
 

@@ -48,13 +48,11 @@ Looping in 10 frames is great. It makes the effect that much more magical as you
 Geometric patterns are great, bright colours work well. * Thin lines are harder to see without enough contrast.
 * By default, their 5″x5″ cards are printed so that you rotate them up/down to see them. Left/right rotation gives blurrier animation when your head is close to the card because of the spacing of your eyes, but if you rotate your animation 90 degrees it will print left/right. For example, Jono did this and rotated his
 
-**Assignment Due dates:**
+####A p5js template for exporting frames:
 
-* Your projects are due for upload to the GifPop site by 5pm, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed. 
-* Exhibition install in class Week 4 in the last half of class. 
+This p5js template shows movement techniques and how to export an animation to frames from your sketch: [this sketch in the class repo.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/CodeExamples/Week2/GIFExporter_P5JS/sketch.js)
 
-
-For a p5js movement template that also shows how to export an animation to frames see [this sketch in the class repo.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/CodeExamples/Week2/GIFExporter_P5JS/sketch.js)
+![Gifpop](../images/anim-demo.gif)
 
 Some things to observe about this animated GIF:
 
@@ -80,17 +78,8 @@ Explore these links for more artists working with loops and animations.
 
 ![Gifpop](../images/spiral-nicholas-fong-evolution.gif)
 
-##Assignment 2
-*Due Week 8*
+**Assignment Due dates:**
 
-Artificial Life and Simulation
+* Your projects are due for upload to the GifPop site by 5pm, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed. 
+* Exhibition install in class Week 4 in the last half of class. 
 
-* Part 1: Create a digital ecosystems
-* Part 2: Make your ecosystem LIVE on the web
-
-##Assignment 3
-*Due Week 11*
-
-##Assignment 4
-Final Project
-*Due Week 14*
