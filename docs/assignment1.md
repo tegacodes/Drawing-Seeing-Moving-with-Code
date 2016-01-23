@@ -5,7 +5,6 @@
 
 In this assignment you will explore the loop as the structure for an artwork. You will produce a short animated loop using p5js that can be exported in 10 frames and which will then be printed as a lenticular animation. The results will be mounted and exhibited in a class exhibition in Week 4.
 
-![Gifpop](../images/gifpop.gif)![Gifpop](../images/gifpop2.gif)
 <img src="../images/gifpop.gif" width="400"><img src="../images/gifpop2.gif" width="400">
 
 **Media artist [Golan Levin](http://www.flong.com/projects/) devised this assignment and the instructions and many of these references are from his [course here.](http://golancourses.net/2014/assignments/project-1/lenticular-animation/)**
