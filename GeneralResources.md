@@ -4,7 +4,7 @@
 ##p5js
 
 * P5js website: [http://p5js.org/](http://p5js.org/)
-* [Nature of Code examples in p5js](https://github.com/shiffman/The-Nature-of-Code-JTerm-2016)
+* [Nature of Code examples in p5js](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
 
 ##Books
 

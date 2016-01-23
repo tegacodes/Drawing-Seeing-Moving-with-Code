@@ -16,20 +16,22 @@ P5js is a new open source creative coding environment using the javascript progr
 
 * Code as medium
 * Github workshop
-* [Intro to p5js workshop](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md)
+* [Week 1 Tutorial: Intro to p5js](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md)
+* Functions and objects in Javascript
 * Assignment 1 outlined
 
 **Week 2: 1 Feb**
 
-* Loops and animations
-* Functions and objects in Javascript
+* Strange loops and animations
+* [Week 2: Loops and animations](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/workshops/week2.md)
+
 
 **Week 3: 8 Feb**
 
 * Assignment 1 due for upload by 5pm Monday
 
 
-###Part 2: Artificual life and animation
+###Part 2: Artificial life and animation
 
 **Week 4: 15 Feb**
 
@@ -86,6 +88,6 @@ P5js is a new open source creative coding environment using the javascript progr
 
 ##[Assigment Briefs](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/assignments.md)
 
-##[Research Resources]()
+##[Related Work](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/examples.md)
 
 ##[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/resources.md)
