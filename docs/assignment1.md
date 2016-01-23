@@ -76,8 +76,6 @@ Explore these links for more artists working with loops and animations.
 * [Syed Reza Ali has been using animated GIFs](http://www.syedrezaali.com/#/gifted/) to document his visual effects work. For Ali, they are a compact, lightweight and durable format. His software may not be easy to get running again in ten years, but his GIFs will still work reliably.
 * The GIFPOP! folks have created a compilation site of the [featured artists](http://gifpop.io/collections/artists) working with their lenticular printing system.
 
-![Gifpop](../images/spiral-nicholas-fong-evolution.gif)
-
 **Assignment Due dates:**
 
 * Your projects are due for upload to the GifPop site by 5pm, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed. 

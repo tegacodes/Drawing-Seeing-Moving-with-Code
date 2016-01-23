@@ -15,6 +15,9 @@ P5js is a new open source creative coding environment using the javascript progr
 
 ##Syllabus
 ###Part 1: Loops and animation
+<img src="images/spiral-nicholas-fong-evolution.gif" width="800">
+*Nicholas Fong, Evolution Animated GIF*
+
 **Week 1: 25 Jan**
 
 * Code as medium
@@ -33,6 +36,8 @@ P5js is a new open source creative coding environment using the javascript progr
 
 
 ###Part 2: Artificial life and animation
+<img src="images/gameoflife.gif" width="800">
+*Conway's Game of Life*
 
 **Week 4: 15 Feb**
 
@@ -50,9 +55,11 @@ P5js is a new open source creative coding environment using the javascript progr
 
 **21 Mar: No class**
 
-**Week 8: 28 Mar**
-
 ###Part 3: Live Web
+<img src="images/mcdonald.gif" width="800">
+*Kyle McDonald, 2015, Exhausting a Crowd.*
+
+**Week 8: 28 Mar**
 
 * Assignment 2A due today
 * Visiting artist Sam Lavigne and live web workshop
@@ -88,7 +95,7 @@ P5js is a new open source creative coding environment using the javascript progr
 
 
 ##Assigment Briefs
-* [Assignment 1](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/assignments.md) - Due Week 3
+* [Assignment 1](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/assignment1.md) - Due Week 3
 * Assignment 2 - Due Week 8
 * Assignment 3 - Due Week 11
 * Assignment 4 - Due Week 14
