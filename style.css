@@ -1,0 +1,98 @@
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+	margin: 20px;
+  color: black;
+  background: url(medium2.jpeg);
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:visited {
+  color: blue;
+}
+
+a.menu {
+  color: black;
+  /*background: #ff69b4;
+  padding: 5px;
+  border-radius: 5px;*/
+  text-decoration: none;
+}
+
+a.menu:visited {
+  color: black;
+}
+
+hr {
+  margin-top: 15px;
+  height: 1px;
+  border-width: 0;
+  color: gray;
+  background-color: lightgray;
+}
+
+p {
+  text-align: justify;
+}
+
+h1 {
+  color: #ff69b4;
+  color: rgb(182, 247, 86);
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #ff69b4;
+  text-transform: uppercase;
+}
+
+table {
+  border: none;
+  border-spacing: 0px;
+}
+
+
+.info1 {
+  font-size: 12px;
+  position: absolute;
+  top: 20px;
+  left: 650px;
+  background: #FFF;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.info2 {
+  font-size: 12px;
+  position: absolute;
+  top: 20px;
+  left: 950px;
+  background: #FFF;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.chunk {
+  padding: 14px;
+  float: left;
+  width: 357px;
+  margin-right: 46px;
+  background-color: rgba(255, 255, 255, 150);
+}
+
+section {
+  padding: 14px;
+  float: left;
+  width: 357px;
+  margin-right: 46px;
+  background-color: rgba(255, 255, 255, 150);
+}
