@@ -41,13 +41,12 @@ To do:
 ##Code Examples
 * Example 1-1: [No output, check the console](http://codepen.io/tega/pen/mVXZbK?editors=0010)
 * Example 1-2: [Mouse moved vs. mouse Dragged](http://codepen.io/tega/pen/zrRVxo?editors=0010)
-* Review many more [basic examples here](http://www.evelyneastmond.com/) as prepared by Evelyn Eastmond. 
+* Review many more [basic examples here](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md) as prepared by Evelyn Eastmond. 
 
-Javascript objects
+###Javascript objects
 * [Javascript literal objects 1](https://www.youtube.com/watch?v=-e5h4IGKZRY&index=7&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [Javascript literal objects with functions](https://www.youtube.com/watch?v=QoFWCPVpWUE&index=19&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [Javascript Objects with a constructor](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
-
 
 ##Deliverables##
 * Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [course policies,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) [assignments,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) submitting work.
