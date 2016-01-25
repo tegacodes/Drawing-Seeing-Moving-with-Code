@@ -33,7 +33,7 @@
 ##Other useful code tutorials and repos
 
 * For programming text projects in javascript see this repo: Programming from A to Z by Shiffman: [http://shiffman.net/teaching/a2z/week1/](http://shiffman.net/teaching/a2z/week1/)
-* p5js with OSC: [https://github.com/genekogan/p5js-osc/blob/master/Applications.md](https://github.com/genekogan/p5js-osc/blob/master/Applications.md)
+* p5js with OSC: [https://github.com/genekogan/p5js-osc/blob/gh-pages/Applications.md](https://github.com/genekogan/p5js-osc/blob/gh-pages/Applications.md)
 * Kinect and Processing tutorial by Shiffman: [http://shiffman.net/p5/kinect/](http://shiffman.net/p5/kinect/)
 
 ##Other creative coding tools and environments:
@@ -76,9 +76,9 @@
 
 
 ###Links
-* **[Syllabus](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/README.md)**
-* **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/policies.md)**  
-* **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/deliverables.md)**  
-* **[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/research.md)**  
-* **[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/resources.md)**
+* **[Syllabus](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)**
+* **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/policies.md)**  
+* **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md)**  
+* **[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/research.md)**  
+* **[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/resources.md)**
 * **[Student Work](http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/)**

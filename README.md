@@ -8,6 +8,7 @@ Office hours: Tuesday 11am - 1pm. [Make an appointment.](https://tegabrain.youca
 This intermediate creative coding studio explores techniques for creating dynamic, poetic and interactive artworks in code. Students will learn techniques to program movement, simulate lifelike movement and behaviors, and develop online and offline works that respond to various inputs. Projects will be developed using open source software environments like Processing and p5.js.
 
 ###Links
+* **[Syllabus](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/README.md)**
 * **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/policies.md)**  
 * **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/deliverables.md)**  
 * **[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/research.md)**  
