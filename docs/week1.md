@@ -57,6 +57,8 @@ To do:
 * Download your text editor and get p5js setup. Use the [empty example in the code folder](ttps://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/empty-example/) to try your first example.
 * Write your first [discovery and research report](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md) on a creative programming tool or environment that is used by artists to make experimental technology based work. Explain what the tool is, who created it and what it does, try to include an example of a project (linked) that has been made with it. Issue a pull request to have this post included. If you are stuck for ideas on creative coding tools see the list at the end of [the resources page.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/techResources.md)
 * Do [this reading by Zach Lieberman](https://medium.com/@zachlieberman/lessons-for-students-cf1acf200ee#.e3lx0esrf)
-* Review Javascript objects by reading the handout or watching the shiffman videos.
-* Complete code exercises.
+*Code exercises:*
+* Create an interactive sketch that transforms from chaos to order as the mouse moves across the screen from left to right.
+* Write a javascript object that draws some sort of bouncing graphical form.
+* Create an array of these so that you are drawing 20 to the screen.
 * Start thinking [about ideas for Project 1, come to class next week with some sketches](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md)
