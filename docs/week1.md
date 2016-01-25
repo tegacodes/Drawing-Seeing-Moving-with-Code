@@ -3,7 +3,8 @@
 * We're going to be using github in this class. Git is source code management software that allows for [version control](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and we'll be using Github which is one of many code management sites around. In class we will run through how to use github from the command line. But it's also fine to use their desktop client.
 * See this tutorial on [getting started with git.](git.md)
 
-To do:
+Once you have git installed:  
+##Set up your local directory and repo
 
 * Fork the class repository to your github site.
 <img src="../images/fork.jpg" width="800">
