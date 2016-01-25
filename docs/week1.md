@@ -31,7 +31,7 @@ You should see the class site download to your local directory.
 * Yes it's [Javascript](https://www.instagram.com/p/BA0-Vxvmj5f/)
 * Don't forget to check errors and print statements in the javascript console log.
 <img src="../images/openconsole.jpg" width="800">  
-<img src="../images/console.png" width="800">  
+<img src="../images/consolelog.png" width="800">  
 
 ##Code Examples
 * *Review the list of [basic examples here](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md) as prepared by Evelyn Eastmond.*
