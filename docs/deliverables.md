@@ -31,5 +31,5 @@ To add videos, embed your video as an iframe or link to the url. Please use conv
 * **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/policies.md)**  
 * **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md)**  
 * **[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/research.md)**  
-* **[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/resources.md)**
+* **[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/techResources.md)**
 * **[Student Work](http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/)**

@@ -8,11 +8,11 @@ Office hours: Tuesday 11am - 1pm. [Make an appointment.](https://tegabrain.youca
 This intermediate creative coding studio explores techniques for creating dynamic, poetic and interactive artworks in code. Students will learn techniques to program movement, simulate lifelike movement and behaviors, and develop online and offline works that respond to various inputs. Projects will be developed using open source software environments like Processing and p5.js.
 
 ###Links
-* **[Syllabus](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/README.md)**
-* **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/policies.md)**  
-* **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/deliverables.md)**  
-* **[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/research.md)**  
-* **[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/resources.md)**
+* **[Syllabus](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)**
+* **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/policies.md)**  
+* **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md)**  
+* **[Creative Inspiration](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/research.md)**  
+* **[Technical Resources](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/techResources.md)**
 * **[Student Work](http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/)**
 
 ###What is p5js?
@@ -27,13 +27,13 @@ P5js is a new open source creative coding environment using the javascript progr
 
 **Week 1: 25 Jan**
 
-* [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/lectures/docs/L1.md)
-* [Week 1 Tutorial: Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/week1.md)
+* [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/lectures/docs/L1.md)
+* [Week 1 Tutorial: Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week1.md)
 
 **Week 2: 1 Feb**
 
 * Strange loops and animations
-* [Week 2: Loops and animations, and deliverables ](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/week2.md)
+* [Week 2: Loops and animations, and deliverables ](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week2.md)
 
 
 **Week 3: 8 Feb**
@@ -101,7 +101,7 @@ P5js is a new open source creative coding environment using the javascript progr
 
 
 ##Assigment Briefs
-* [Assignment 1](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/master/docs/project1.md) - Due Week 3
+* [Assignment 1](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md) - Due Week 3
 * Assignment 2 - Due Week 8
 * Assignment 3 - Due Week 11
 * Assignment 4 - Due Week 14
