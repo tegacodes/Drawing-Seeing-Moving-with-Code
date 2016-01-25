@@ -22,17 +22,19 @@ You should see the class site download to your local directory.
   * Download [latest version of p5js here](http://p5js.org/download/)
   * Download [p5js editor here](http://p5js.org/download/)
   * Setup with a text editor, I recommend [the atom text editor](https://atom.io/) but you can use any that you like. There are some details of the set up here [http://p5js.org/get-started/](http://p5js.org/get-started/) under the environment section.
-  * Overview file structure
-  * Your first p5 sketch
-  * Review the Transitioning from Processing tutorial. [https://github.com/processing/p5.js/wiki/Processing-transition](https://github.com/processing/p5.js/wiki/Processing-transition)
+  * Overview file structure:  
+<img src="../images/filestructure.jpg" width="800">
 
 ##Introduction to p5js
+  * Your first p5 sketch  
+  * Review the Transitioning from Processing tutorial. [https://github.com/processing/p5.js/wiki/Processing-transition](https://github.com/processing/p5.js/wiki/Processing-transition)
 * Yes it's [Javascript](https://www.instagram.com/p/BA0-Vxvmj5f/)
+* Don't forget to check errors and print statements in the javascript console log.
+<img src="../images/openconsole.jpg" width="800">  
+<img src="../images/console.png" width="800">  
 
 ##Code Examples
-* Example 1-1: [No output, check the console](http://codepen.io/tega/pen/mVXZbK?editors=0010)
-* Example 1-2: [Mouse moved vs. mouse Dragged](http://codepen.io/tega/pen/zrRVxo?editors=0010)
-* *Review many more [basic examples here](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md) as prepared by Evelyn Eastmond.*
+* *Review the list of [basic examples here](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md) as prepared by Evelyn Eastmond.*
 
 ##Deliverables##
 * Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [course policies,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [assignments,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) submitting work.
