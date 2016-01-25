@@ -1,11 +1,11 @@
 #Basic p5js Examples by [Evelyn Eastmond](http://www.evelyneastmond.com/)
 
-<p><a name="example1"><strong>1: Basic Drawing</strong></a></p>
+<a name="example1"><strong>1: Basic Drawing</strong></a>
     <ul>
       <li><a target="_blank" href="http://codepen.io/evhan55/pen/myqjoy?editors=001">Example 1-1</a> - basic drawing</li>
     </ul>
 
-    <p><a name="example2"><strong>2: Setup/Draw, Scope</strong></a></p>
+    <a name="example2"><strong>2: Setup/Draw, Scope</strong></a>
     <ul>
       <li><a target="_blank" href="http://codepen.io/evhan55/pen/bNYjPg?editors=001">Example 2-1</a> - setup and draw (no graphical output, check the <a target="_blank" href="https://developer.chrome.com/devtools/docs/console">console</a>)</li>
       <li><a target="_blank" href="http://codepen.io/evhan55/pen/azVjgQ?editors=001">Example 2-2</a> - variables and scope</li>
