@@ -4,6 +4,8 @@
 ##p5js
 
 * P5js website: [http://p5js.org/](http://p5js.org/)
+* [Basic p5 code examples:](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md)
+* [Shiffman's video series on programming fundamentals in p5js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [Nature of Code examples in p5js](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
 
 ##Books
@@ -18,7 +20,8 @@
 * Crockford, Douglas, <a href="http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf">Javascript the Good Parts.</a> This text is for more advanced learners.
 
 ##Development Tutorials
-* This simple guide has all the basics you will need: [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/)
+* [Our class tutorial on how to set up Git.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/git.md)
+* [This simple guide has all the basics you will need:](http://rogerdudler.github.io/git-guide/)
 * [Cheatsheet on Git from the command line:]
 (https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * Getting started with [Github desktop client](https://help.github.com/desktop/guides/getting-started/)

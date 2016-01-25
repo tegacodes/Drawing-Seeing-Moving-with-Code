@@ -34,6 +34,7 @@ Students will:
 
 * [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-1.md)
 * [Week 1 Tutorial: Git, Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week1.md)
+* Remember there is a [list of basic p5js examples here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md)
 
 **Week 2: 1 Feb**
 
