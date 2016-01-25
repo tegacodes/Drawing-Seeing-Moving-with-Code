@@ -41,7 +41,7 @@ To do:
 ##Code Examples
 * Example 1-1: [No output, check the console](http://codepen.io/tega/pen/mVXZbK?editors=0010)
 * Example 1-2: [Mouse moved vs. mouse Dragged](http://codepen.io/tega/pen/zrRVxo?editors=0010)
-* Review many more [basic examples here](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md) as prepared by Evelyn Eastmond. 
+* Review many more [basic examples here](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md) as prepared by Evelyn Eastmond.
 
 ###Javascript objects
 * [Javascript literal objects 1](https://www.youtube.com/watch?v=-e5h4IGKZRY&index=7&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
@@ -49,13 +49,7 @@ To do:
 * [Javascript Objects with a constructor](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
 
 ##Deliverables##
-* Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [course policies,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) [assignments,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) submitting work.
-
-* **[Syllabus]**
-* **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/policies.md)**  
-* **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md)**  
-
-
+* Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md), [course policies,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md), [assignments,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) submitting work.
 * Get a small notebook for drawing in this class.
 * Do the [getting started with git.](git.md) tutorial and do any parts missed in class.
 * Do this  Git interactive tutorial. It basically runs you through using Git on the command line and with Github.
