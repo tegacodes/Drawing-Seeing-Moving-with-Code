@@ -6,13 +6,13 @@
 To do:
 
 * Fork the class repository to your github site.
-<img src="../images/fork.jpg" width="600">
+<img src="../images/fork.jpg" width="700">
 * On your computer (or usb), setup the directory you will use for this class.
 * In it, clone the class repository   
 ```git clone your-git-url/Drawing-Seeing-Moving-with-Code```
 You should see the class site download to your local directory.  
 * Add a folder labelled firstnamelastname (all lowercase, no spaces) to the students/ directory in your repository, this will be the folder to contain your classwork. Within this add a folder called Week1 and add your homework to this.  
-<img src="../images/localrepo.jpg" width="600">
+<img src="../images/localrepo.jpg" width="700">
 * Commit the changes back to your online repository.   
 ```git add students/yourname/*```  - this adds your new directory to the staging area. It needs the /* at the end
 ```git commit -m "Your commit message"``` - Add your commit message  
@@ -38,9 +38,9 @@ You should see the class site download to your local directory.
 * Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [course policies,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [assignments,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) submitting work.
 * Get a small notebook for drawing in this class.
 * Do the [getting started with git.](git.md) tutorial and do any parts missed in class.
-* Do this  Git interactive tutorial. It basically runs you through using Git on the command line and with Github.
-* Fork this repo to your git account (as outlined in the git tutorial), and issue a pull request to update your student page - there should be a list of [everyone's folders here](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/students) when this is done.
-* Download your text editor and get p5js setup. Use the [empty example in the code folder](ttps://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/empty-example/) to try your first example.
+* Do this [Try Git interactive tutorial.](https://www.codeschool.com/courses/try-git) It basically runs you through using Git on the command line and with Github.
+* Fork this repo to your git account (as outlined in the git tutorial) and add your personal folder to the [students](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/students) folder as outlined above, we will be going through pull requests next week.
+* Download your text editor and get p5js setup. Use the [empty example in the code folder](ttps://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/empty-example/) to try your first example. This has the paths to the p5 library all set up (but you do have to be on the internet. 
 * Write your first [discovery and research report](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md) on a creative programming tool or environment that is used by artists to make experimental technology based work. Explain what the tool is, who created it and what it does, try to include an example of a project (linked) that has been made with it. Issue a pull request to have this post included. If you are stuck for ideas on creative coding tools see the list at the end of [the resources page.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/techResources.md)
 * Do [this reading by Zach Lieberman](https://medium.com/@zachlieberman/lessons-for-students-cf1acf200ee#.e3lx0esrf)
 *Code exercises:*
