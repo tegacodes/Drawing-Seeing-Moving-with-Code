@@ -2,7 +2,7 @@
 
 <a name="example1"><strong>1: Basic Drawing</strong></a>
 
-      <a target="_blank" href="http://codepen.io/evhan55/pen/myqjoy?editors=001">Example 1-1</a> - basic drawing
+      <a href="http://codepen.io/evhan55/pen/myqjoy?editors=001">Example 1-1</a> - basic drawing
 
 
     <a name="example2"><strong>2: Setup/Draw, Scope</strong></a>
