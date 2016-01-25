@@ -1,6 +1,8 @@
 #Deliverables
 
-This class involves weekly homework in the form of coding exercises, some technical and theoretical readings, and discovery and research posts. Deliverables are listed at the end of the tutorial for each week.
+This class involves weekly homework assignments in the form of coding exercises, some technical and theoretical readings, and discovery and research posts. Deliverables are listed at the end of the tutorial for each week and are due at the start of class the next week.
+
+All homework assignments in this course will take the form of Markdown pages submitted as pull requests through Github. Our course repo is: https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/.
 
 This class is also structured by a series of projects, their briefs will be posted here.
 

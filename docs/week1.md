@@ -1,21 +1,22 @@
 ##Getting started with Github
 
-* We're going to be using github in this class. Git is source code management software that allows for version control and we'll be using Github which is one of many code management sites around. In class we will run through how to use github from the command line. But it's also fine to use their desktop client.
+* We're going to be using github in this class. Git is source code management software that allows for [version control](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and we'll be using Github which is one of many code management sites around. In class we will run through how to use github from the command line. But it's also fine to use their desktop client.
 * See this tutorial on [getting started with git.](git.md)
 
 To do:
 
 * Fork the class repository to your github site.
 * On your computer (or usb), setup the directory you will use for this class.
-* In it, clone the class repository '''git clone *your git url*/Drawing-Seeing-Moving-with-Code
-* Add a folder named yourfirstnameyourlastname (all lowercase, no spaces) to the folder students/
+* In it, clone the class repository '''git clone your-git-url/Drawing-Seeing-Moving-with-Code```
+* Add a folder labelled firstnamelastname (all lowercase, no spaces) to the students/ directory in your repository
 * Commit the changes back to your online repository.
 * Make a pull request to the main class repository.
-* Well done!
+* Well done! You have done your first pull request!
 
 
 ##Set up p5js
   * Download [latest version of p5js here](http://p5js.org/download/)
+  * Download [p5js editor here](http://p5js.org/download/)
   * Setup with a text editor, I recommend [the atom text editor](https://atom.io/) but you can use any that you like. There are some details of the set up here [http://p5js.org/get-started/](http://p5js.org/get-started/) under the environment section.
   * Overview file structure
   * Your first p5 sketch
@@ -29,7 +30,7 @@ To do:
 
 *On a pc:*
 
-* Windows doesn't have a built in command line but never fear you can install one for free. [Download Gitbash](https://git-scm.com/downloads), here's [a video](https://www.youtube.com/watch?v=albr1o7Z1nw) that walks you through this.  
+* Windows doesn't have a built in command line but never fear you can install one for free. See the github tutorial on this to install a command line.
 * To start the server. Open up the command line and do the above.
 * It is also possible (and gives faster results) to start a server with node. [Instructions are here.](https://github.com/processing/p5.js/wiki/Local-server)
 
@@ -38,7 +39,13 @@ To do:
 * Transitioning from Processing: [https://github.com/processing/p5.js/wiki/Processing-transition](https://github.com/processing/p5.js/wiki/Processing-transition)
 
 ##Deliverables##
-* Review all course documents: syllabus, course policies, assignments, submitting work.
+* Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [course policies,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) [assignments,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) submitting work.
+
+* **[Syllabus]**
+* **[Class Policies](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/policies.md)**  
+* **[Assignments](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md)**  
+
+
 * Get a small notebook for drawing in this class.
 * Do the [getting started with git.](git.md) tutorial and do any parts missed in class.
 * Do this  Git interactive tutorial. It basically runs you through using Git on the command line and with Github.
