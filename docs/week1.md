@@ -59,6 +59,6 @@ To do:
 * Do [this reading by Zach Lieberman](https://medium.com/@zachlieberman/lessons-for-students-cf1acf200ee#.e3lx0esrf)
 *Code exercises:*
 * Create an interactive sketch that transforms from chaos to order as the mouse moves across the screen from left to right.
-* Write a javascript object that draws some sort of bouncing graphical form.
-* Create an array of these so that you are drawing 20 to the screen.
+* Using two arrays, create a sketch with 100 flying objects. Make them change when I click the mouse.
+* Port one of your old Processing sketches to p5js.
 * Start thinking [about ideas for Project 1, come to class next week with some sketches](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md)
