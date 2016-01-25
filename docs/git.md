@@ -47,15 +47,15 @@ Be careful, from the command line you can do many more things than from a finder
 ```git init``` - initialize git in your local directory  
 ```git status``` - gives the status of your repo  
 
-*To upload, there are 3 steps:*  
+####To upload, there are 3 steps:  
 ```git add``` - stage a file for commit, responds to wildcards like *.txt (adds all .txt file) and . which refers to all modified files (careful with this one!)  
 ```git commit -m "your comment here"``` - commits changes for upload with a comment  
-```git push origin 'your branch name'``` - pushes your work to your external repository online (we're using github), note the branch name is most often the master.  
+```git push origin 'your branch name'``` - pushes your work to your external repository online (we're using github), note the branch name is for us is gh-pages.  
 
-*If you have made changes online and want to bring them into your local repo:*  
-```git pull``` - pull in any changes from the remote  
+####If you have made changes online and want to download them to your local repo:  
+```git pull``` - pull in any changes from the remote    
 
-Other commands:
+Other commands:  
 ```git checkout``` - switch to a branch, commit, or tag; the base location is the master branch  
 ```git rm``` - remove a file or folder form the staging area, removing a modfied file may require the -f argument to force it, -r adds files recursively (useful within folders).    
 ```git mv``` - move or rename files or folders, only works for files currently managed by git (aka added previously)  
