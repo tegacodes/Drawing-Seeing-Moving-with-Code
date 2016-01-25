@@ -27,7 +27,7 @@ P5js is a new open source creative coding environment using the javascript progr
 
 **Week 1: 25 Jan**
 
-* [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/lectures/docs/L-1.md)
+* [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-1.md)
 * [Week 1 Tutorial: Git, Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week1.md)
 
 **Week 2: 1 Feb**
