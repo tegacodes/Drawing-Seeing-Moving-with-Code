@@ -28,6 +28,7 @@ Although this is install and setup is covered in the introduction to git (linked
 ```$ git config --global color.ui true```
 
 ###Command line basics
+
 ```ls``` - list file in directory
 ```pwd``` - shows the path of your current location
 ```cd``` - change directory, follow with the name of a folder in your current location or a path
@@ -37,6 +38,10 @@ Although this is install and setup is covered in the introduction to git (linked
 ```rm``` - follow with a file name to delete file
 ```cp``` - follow with a file name to copy file
 ```mv``` - follow with a file name and then a location to move file to new location
+And for some fun:
+```say``` - gets your computer talking, follow with a phrase or word
+
+Be careful, from the command line you can do many more things than from a finder or GUI. It is possible to delete and move system files in ways that can break your OS. Make sure you think about what you are doing and ask me in class or via the code forum if you are worried about something you are trying to do.
 
 ###Git command line basics
 ```git init``` - initialize git in your local directory
