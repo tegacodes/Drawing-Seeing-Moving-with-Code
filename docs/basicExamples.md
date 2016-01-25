@@ -13,7 +13,7 @@ By [Evelyn Eastmond](http://www.evelyneastmond.com/)
 
 ###3: Mouse Interaction
 
-[Example 3-1]](http://codepen.io/evhan55/pen/JoOaPz?editors=001) - change background on mouse pressed  
+[Example 3-1](http://codepen.io/evhan55/pen/JoOaPz?editors=001) - change background on mouse pressed   
 [Example 3-2](http://codepen.io/evhan55/pen/vEWzYE?editors=001) - change background on mouse released  
 [Example 3-3](http://codepen.io/evhan55/pen/gbXdOr?editors=001) - add rect on mouse released  
 [Example 3-4](http://codepen.io/evhan55/pen/jEavOG?editors=001) - mouse dragged vs mouse moved  
@@ -97,8 +97,8 @@ By [Evelyn Eastmond](http://www.evelyneastmond.com/)
 ###13: Arrays
 
 [Example 13-1](http://codepen.io/evhan55/pen/emeLdL?editors=001) - simple array example  
-[Example 13-2](http://codepen.io/evhan55/pen/Eabegr?editors=001) - simple array example (alternate   initialization using push)
-[Example 13-3](http://codepen.io/evhan55/pen/JoOaRq?editors=001) - simple array example (alternate single line   initialization)
+[Example 13-2](http://codepen.io/evhan55/pen/Eabegr?editors=001) - simple array example (alternate   initialization using push)  
+[Example 13-3](http://codepen.io/evhan55/pen/JoOaRq?editors=001) - simple array example (alternate single line   initialization)  
 [Example 13-4](http://codepen.io/evhan55/pen/YPEOpX?editors=001) - using a for loop to initialize  
 [Example 13-5](http://codepen.io/evhan55/pen/OPOobW?editors=001) - using a for loop to draw (line height)  
 [Example 13-6](http://codepen.io/evhan55/pen/bNYxBR?editors=001) - using a for loop to draw (strokeWeight)  
