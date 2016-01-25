@@ -6,13 +6,13 @@
 To do:
 
 * Fork the class repository to your github site.
-<img src="../images/fork.jpg" width="700">
+<img src="../images/fork.jpg" width="800">
 * On your computer (or usb), setup the directory you will use for this class.
 * In it, clone the class repository   
 ```git clone your-git-url/Drawing-Seeing-Moving-with-Code```
 You should see the class site download to your local directory.  
 * Add a folder labelled firstnamelastname (all lowercase, no spaces) to the students/ directory in your repository, this will be the folder to contain your classwork. Within this add a folder called Week1 and add your homework to this.  
-<img src="../images/localrepo.jpg" width="700">
+<img src="../images/localrepo.jpg" width="800">
 * Commit the changes back to your online repository.   
 ```git add students/yourname/*```  - this adds your new directory to the staging area. It needs the /* at the end
 ```git commit -m "Your commit message"``` - Add your commit message  
