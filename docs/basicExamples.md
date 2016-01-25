@@ -2,10 +2,7 @@
 
 ###1: Basic Drawing
 
-
       [http://codepen.io/evhan55/pen/myqjoy?editors=001](Example 1-1) - basic drawing
-      <a href="http://codepen.io/evhan55/pen/myqjoy?editors=001">Example 1-1</a> - basic drawing
-
 
    ###2: Setup/Draw, Scope
 
