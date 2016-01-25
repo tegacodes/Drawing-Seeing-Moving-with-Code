@@ -49,7 +49,7 @@ To do:
 * [Javascript Objects with a constructor](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
 
 ##Deliverables##
-* Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md), [course policies,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md), [assignments,]((https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md)) submitting work.
+* Review all course documents: [syllabus,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [course policies,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) [assignments,](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/README.md) submitting work.
 * Get a small notebook for drawing in this class.
 * Do the [getting started with git.](git.md) tutorial and do any parts missed in class.
 * Do this  Git interactive tutorial. It basically runs you through using Git on the command line and with Github.
