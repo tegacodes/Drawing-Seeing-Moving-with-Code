@@ -2,8 +2,8 @@
 New media elective at Purchase College.  
 Spring, 2016.  
 Tega Brain: [tega.brain@purchase.edu](mailto:tega.brain@purchase.edu)  
-Room: LIB1015A, Mon 10.30-2.10.  
-Office hours: Tuesday 11am - 1pm. [Make an appointment.](https://tegabrain.youcanbook.me/)
+Room: Location: Humanities - Level 2, lab HUM 1054.
+Office hours: Monday 3pm - 5pm. [Make an appointment.](https://tegabrain.youcanbook.me/)
 
 This intermediate creative coding studio explores techniques for creating dynamic, poetic and interactive artworks in code. Students will learn techniques to program movement, simulate lifelike movement and behaviors, and develop online and offline works that respond to various inputs. Projects will be developed using open source software environments like Processing and p5.js.
 
