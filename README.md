@@ -59,9 +59,15 @@ Students will:
 
 **Week 5: 22 Feb**
 
+* Vectors and forces
+
 **Week 6: 29 Feb (omg it's a leap year)**
 
+* Oscillation and particle systems
 **Week 7: 7 Mar**
+
+* Physics libraries
+* Studio time
 
 **14 Mar: No class**
 
