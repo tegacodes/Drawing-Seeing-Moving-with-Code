@@ -38,7 +38,7 @@ Students will:
 
 **Week 2: 1 Feb**
 
-* Strange loops and animations
+* [Strange loops and animations](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md)
 * [Week 2: Loops and animations, and deliverables ](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week2.md)
 
 
