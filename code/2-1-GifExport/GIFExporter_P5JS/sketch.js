@@ -14,11 +14,11 @@ var bRecording;
 var x = 0;
 
 function setup() {
-  createCanvas(400, 200);
+  createCanvas(400, 400);
 
   bRecording = false;
   nElapsedFrames = 0;
-  frameRate (nFramesInLoop);
+  frameRate(nFramesInLoop);
   stroke(0);
   fill(150);
 }
@@ -70,5 +70,8 @@ function renderMyDesign (percent) {
 background(255);
   ellipse(x,100,20,20);
   x=map(percent,0,1,0,width);
+
+//ellipse(x,y,w,h);
+ellipse(x,height/2, percent*400,percent*400);
 
 }
