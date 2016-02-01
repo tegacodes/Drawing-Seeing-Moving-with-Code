@@ -2,12 +2,12 @@
 
 ####Update Git
 * Update your fork of the class repository. ([Instructions from here.](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/))
-  * First make sure your online repository has you homework.
-  * Then in the terminal cd to whereever your local repo is where you are working
-  * Make sure they are synced. (`git status`) will tell you this
+  * First make sure your online repository has your homework. If it hasn't, [push your changes to github.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/docs/pushtogit.md)
+  * Then in the terminal cd to whereever your local repo is - this is whereever you have been working
+  * Make sure your remote and your local repos are synced. (`git status`) will tell you this
   * You may need to `git pull` which will bring in your online changes to your local repository
   * Now your local and your remote version should be matched. `git status` showing no red lines!
-  * Now you are going to pull in the new examples for this week from the master repository. `git checkout gh-pages`
+  * Now you are going to pull in the new examples for this week from the master repository to your local. `git checkout gh-pages`
   * And pull the updated branch from the main repo
   `git pull https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code.git gh-pages`
   * Fingers crossed you have no merge conflicts. (If you do, talk to me)
@@ -63,13 +63,13 @@ Oscillation
 ####Trigonometry Exercises
 * See chapter 3 in [Nature of Code.](http://natureofcode.com/) or this draft primer [on trig over here.](http://www.trig.tegabrain.com/)
 * With one line of code, transform the circular motion example into a spiral
-* Create a pulsing sketch where a color oscillates with sine. (You could hack the sinScaling example.
+* Create a pulsing sketch where a color oscillates with sine. (You could hack the sinScaling example).
 * Create a spiral function and create a series of spirals, organizing them into a composition. 
 
 
 ###Deliverables:
 
-* Finish trig exercises. 
-* Work on your loop project. You should start by posting a series of 3 sketches of how your loop will work and come to class with a sketch for refinement in class time next week. 
-* Do [this reading by Michael Naimark](http://www.naimark.net/writing/firstword.html) and make a [discovery and research report](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/deliverables.md) describing an example of either firstword or lastword art. If you are stuck for ideas on where to look for works, see the list at the end of [the resources page.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/techResources.md)
+* Read this excerpt from the [trig chapter from Nature of Code here to better understand the trig examples.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/docs/readings/NoC-Oscillation.pdf)
+* Do the exercises listed above.
+* Work on your loop project. You should start by doing a series of at least 3 handdrawn sketches of how your loop will work. Scan or take photos of these images and make a folder in your student folder in the repo, putting them in there also posting them to a markdown file describing your project process. Come to class with code experiments for refinement next week. You will have most of class to work on your lenticular loop.
 * If you are interested. [Here is a short history of Javascript.](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)
