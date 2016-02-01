@@ -28,7 +28,7 @@
 
 
 ####Trigonometry
-
+*See chapter 3 in [Nature of Code.](http://natureofcode.com/)*  
 Angular motion
 
 * [Example 2-3: Trig angularVel](http://codepen.io/tega/pen/BjVEzE?editors=0010)  
@@ -61,7 +61,7 @@ Oscillation
   * Well done! You've made your first pull request.
 
 ####Trigonometry Exercises
-* See a draft primer [on trig over here.](http://www.trig.tegabrain.com/)
+* See chapter 3 in [Nature of Code.](http://natureofcode.com/) or this draft primer [on trig over here.](http://www.trig.tegabrain.com/)
 * With one line of code, transform the circular motion example into a spiral
 * Create a pulsing sketch where a color oscillates with sine. (You could hack the sinScaling example.
 * Create a spiral function and create a series of spirals, organizing them into a composition. 
