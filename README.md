@@ -2,8 +2,8 @@
 New media elective at Purchase College.  
 Spring, 2016.  
 Tega Brain: [tega.brain@purchase.edu](mailto:tega.brain@purchase.edu)  
-Room: LIB1015A, Mon 10.30-2.10.  
-Office hours: Tuesday 11am - 1pm. [Make an appointment.](https://tegabrain.youcanbook.me/)
+Room: Location: Humanities - Level 2, lab HUM 1054.  
+Office hours: Monday 3pm - 5pm. [Make an appointment.](https://tegabrain.youcanbook.me/)
 
 This intermediate creative coding studio explores techniques for creating dynamic, poetic and interactive artworks in code. Students will learn techniques to program movement, simulate lifelike movement and behaviors, and develop online and offline works that respond to various inputs. Projects will be developed using open source software environments like Processing and p5.js.
 
@@ -19,6 +19,11 @@ This intermediate creative coding studio explores techniques for creating dynami
 P5js is a new open source creative coding environment using the javascript programming language. It is a tool that adopts the philosophy and approach of <a href="https://processing.org/">Processing</a> but takes it to the web. It is built by a diverse community of artists, designers and developers and supports the development creative, experimental and interactive projects in the context of the web. Visit the <a href="http://p5js.org/">p5js site here.</a>
 
 ##Learning Objectives
+Students will:
+* Gain skills and experience using open source creative coding environments as a medium for art
+* Develop poetic and critical experimental works in software
+* Ccritically engage with historic and contemporary computational art practices
+* Refine their personal learning strategies, project planning and problem solving skills
 
 ##Syllabus
 ###Part 1: Loops and animation
@@ -29,10 +34,11 @@ P5js is a new open source creative coding environment using the javascript progr
 
 * [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-1.md)
 * [Week 1 Tutorial: Git, Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week1.md)
+* Remember there is a [list of basic p5js examples here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md)
 
 **Week 2: 1 Feb**
 
-* Strange loops and animations
+* [Strange loops and animations](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md)
 * [Week 2: Loops and animations, and deliverables ](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week2.md)
 
 
@@ -53,9 +59,16 @@ P5js is a new open source creative coding environment using the javascript progr
 
 **Week 5: 22 Feb**
 
+* Vectors and forces
+
 **Week 6: 29 Feb (omg it's a leap year)**
 
+* Oscillation and particle systems
+
 **Week 7: 7 Mar**
+
+* Physics libraries  
+* Studio time
 
 **14 Mar: No class**
 
