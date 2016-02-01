@@ -1,7 +1,7 @@
 var angleVel=0.05; //sets how fast we are going around the circles
 var angle=0; //angle variable
-var offset = 200;
-var scalar = 30;
+var offset = 200; //offsets to center point
+var r = 30; //r of oscillation
 
 function setup(){
   createCanvas(400,400);
@@ -16,8 +16,8 @@ function draw(){
 
   fill(0);
   //generate x and y of each ellipse. You can also do this using offset and scalar rather than map.
-  var x = offset + cos(angle) * scalar;
-  var y = offset + sin(angle) * scalar;
+  var x = offset + cos(angle) * r;
+  var y = offset + sin(angle) * r;
 
   strokeWeight(1);
   stroke(237,34,93);

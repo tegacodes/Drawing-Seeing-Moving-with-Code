@@ -22,20 +22,33 @@
 * Try the load image example to see a local server in action.
 * Trigonometry review and loops. All these example are in folders in your 
 
-####Loop Example
+####Load an Image
+* [Example 2.4: Load an image](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-1)
+* [Example 2.4: Load an image with a callback](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-2-callback)
 
-* [Example 2-2: Loop with frame Export](http://codepen.io/tega/pen/MKQpOX?editors=0010)
 
 ####Trigonometry
 
+Angular motion
+
 * [Example 2-3: Trig angularVel](http://codepen.io/tega/pen/BjVEzE?editors=0010)  
+
+Polar & Cartesian coordinates  
+
 * [Example 2-3: Trig circularMotion](http://codepen.io/tega/pen/pgKBEj?editors=0010)  
+
+Oscillation
+
 * [Example 2-3: Trig sinWave](http://codepen.io/tega/pen/zraXKZ?editors=0010)  
 * [Example 2-3: Trig sinScaling](http://codepen.io/tega/pen/rxKbqz?editors=0010)  
 * [Example 2-3: Trig sinCosMotion](http://codepen.io/tega/pen/EPRJGQ?editors=0010)
 
-####Load an Image
-* [Example 2.4: Load an image](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-1)
+
+####Loop Example
+
+* [Example 2-2: Loop with frame Export](http://codepen.io/tega/pen/MKQpOX?editors=0010)
+
+
 
 ###Tutorial Outline
 
