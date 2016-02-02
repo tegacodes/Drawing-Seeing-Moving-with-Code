@@ -1,6 +1,6 @@
 #Loops and Trigonometry
 
-####Update Git
+####Update Git to get week2 examples in your repo
 * Update your fork of the class repository. ([Instructions from here.](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/))
   * First make sure your online repository has your homework. If it hasn't, [push your changes to github (see section on this here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/git.md)
   * Then in the terminal cd to whereever your local repo is - this is whereever you have been working
@@ -14,22 +14,12 @@
   * Push your now updated local repo to your repo online `git push origin gh-pages`
 * Github markdown. You may with to use Markdown reader such as [MacDown for mac](http://macdown.uranusjr.com/) or [Markdown pad for windows](http://markdownpad.com/)
 
-###Using a local server
 
-* There will come a time when you want to load images or fonts or sound into your sketch. This means we have to use a local server. [Follow these instructions to get one set up.](https://github.com/processing/p5.js/wiki/Local-server)
+###Trigonometry
+*See [reading from chapter 3 in nature of code.] (https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/readings/NoC-Oscillation.pdf)
 
-###Examples
-* Try the load image example to see a local server in action.
-* Trigonometry review and loops. All these example are in folders in your
-
-####Load an Image
-* [Example 2.4: Load an image](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-1)
-* [Example 2.4: Load an image with a callback](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-2-callback)
-
-
-####Trigonometry
-*See chapter 3 in [Nature of Code.](http://natureofcode.com/)*  
 Angular motion
+All these example are in the code/week 2 folder of the repo as well as being in code pen for your easy viewing..
 
 * [Example 2-3: Trig angularVel](http://codepen.io/tega/pen/BjVEzE?editors=0010)  
 
@@ -43,16 +33,24 @@ Oscillation
 * [Example 2-3: Trig sinScaling](http://codepen.io/tega/pen/rxKbqz?editors=0010)  
 * [Example 2-3: Trig sinCosMotion](http://codepen.io/tega/pen/EPRJGQ?editors=0010)
 
-
 ####Loop Example
 
 * [Example 2-2: Loop with frame Export](http://codepen.io/tega/pen/MKQpOX?editors=0010)
 
+####Using a local server
 
+* There will come a time when you want to load images or fonts or sound into your sketch. This means we have to use a local server (we will go over this in more detail in weeks 3 and 4) [Follow these instructions to get one set up.](https://github.com/processing/p5.js/wiki/Local-server)
 
+###Examples
+* Try the load image example to see a local server in action.
+* Trigonometry review and loops. All these example are in folders in your
+
+####Load an Image
+* [Example 2.4: Load an image](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-1)
+* [Example 2.4: Load an image with a callback](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-2-callback) 
 ###Tutorial Outline
 
-####Submit your Week 1 homework
+###Submit your Week 1 homework
 
 * Pull request to Github (submit your homework)
   * Now you have everything synced and updated. Let's make your first pull request. This is where you are asking to add your new work to the class repo.
@@ -60,8 +58,8 @@ Oscillation
   * Find the *New Pull Request* button. Press it and you should see information on the changes between your repo and the main one. Create the request and I will then accept.
   * Well done! You've made your first pull request.
 
-####Trigonometry Exercises
-* See chapter 3 in [Nature of Code.](http://natureofcode.com/) or this draft primer [on trig over here.](http://www.trig.tegabrain.com/)
+###Trigonometry Exercises
+* See chapter 3 in [Nature of Code.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/readings/NoC-Oscillation.pdf) or this draft primer [on trig over here.](http://www.trig.tegabrain.com/)
 * With one line of code, transform the circular motion example into a spiral (see the trig chapter reading for more on this)
 * Create a pulsing sketch where a color oscillates with sine. (You could hack the sinScaling example using sin to change the color rather than the scale).
 
