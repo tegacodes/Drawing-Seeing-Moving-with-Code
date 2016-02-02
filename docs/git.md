@@ -46,7 +46,7 @@ Although this is install and setup is covered in the introduction to git (linked
 * Find the green New Pull Request button. Press it and you should see information on the changes between your repo and the main one. 
 * Create the request and I will then eventually accept it. Well done! You've made your first pull request.
 
-###Command line basics
+##Command line basics
  
 ```ls``` - list file in directory  
 ```pwd``` - shows the path of your current location  
@@ -62,7 +62,7 @@ And for some fun:
 
 Be careful, from the command line you can do many more things than from a finder or GUI. It is possible to delete and move system files in ways that can break your OS. Make sure you think about what you are doing and ask me in class or via the code forum if you are worried about something you are trying to do.  
 
-###Git command line basics  
+##Git command line basics  
 ```git init``` - initialize git in your local directory  
 ```git status``` - gives the status of your repo  
 
