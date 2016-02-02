@@ -67,6 +67,11 @@ function keyPressed() {
 
 //===================================================
 function renderMyDesign (percent) {
+  // This is an example of a function that renders a temporally looping design.
+// It takes a "percent", between 0 and 1, indicating where we are in the loop.
+// This example uses two different graphical techniques.
+// Use or delete whatever you prefer from this example.
+// Remember to SKETCH FIRST!
 background(255);
   ellipse(x,100,20,20);
   x=map(percent,0,1,0,width);
