@@ -27,6 +27,25 @@ Although this is install and setup is covered in the introduction to git (linked
 * Turn on git colors with makes reading status and diffs much easier (only need to do this once). You shouldn't need to do this if you're using the Git Bash installed by Git for Windows.  
 ```$ git config --global color.ui true```  
 
+##Need to push your homework to your github account?
+
+####There are 3 steps:  
+
+1) ```git add``` - stage a file for commit, use (```git add path-of-your-new-file-or-directory```) or ```git add .``` which will add all modified files (careful with this one!), also responds to wildcards (like *.txt adds all .txt files)
+
+2) ```git commit -m "your comment here"``` - commits changes for upload with a comment. If you forget to add the comment, you will get stuck in a weird text editor program called VIM. It's a pain. Press ```esc``` and then ```:wq``` to exit.
+
+3) ```git push origin 'your branch name'``` - pushes your work to your external repository online (we're using github), note the branch name is for us is ```gh-pages```.  
+
+* If you get some errors saying commit not made due to the upstream being ahead of your repository, pull the changes from the remote first. ```git pull``` Then try these three steps again.
+
+##Need to make a pull request to have your work merged into the main repository?
+
+* Make sure you have pushed your work to your github account. Then let's make your first pull request. This is where you are asking to add your new work to the class repo.
+* First navigate to your online repository
+* Find the green New Pull Request button. Press it and you should see information on the changes between your repo and the main one. 
+* Create the request and I will then eventually accept it. Well done! You've made your first pull request.
+
 ###Command line basics
  
 ```ls``` - list file in directory  
