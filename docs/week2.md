@@ -2,7 +2,7 @@
 
 ####Update Git
 * Update your fork of the class repository. ([Instructions from here.](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/))
-  * First make sure your online repository has your homework. If it hasn't, [push your changes to github.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/pushtogit.md)
+  * First make sure your online repository has your homework. If it hasn't, [push your changes to github (see section on this here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/git.md)
   * Then in the terminal cd to whereever your local repo is - this is whereever you have been working
   * Make sure your remote and your local repos are synced. (`git status`) will tell you this
   * You may need to `git pull` which will bring in your online changes to your local repository
