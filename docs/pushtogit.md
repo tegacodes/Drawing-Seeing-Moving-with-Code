@@ -2,7 +2,7 @@
 
 ####There are 3 steps:  
 
-1) ```git add``` - stage a file for commit, use (```git add path of your new file or directory```), ```git add .``` which will add all modified files (careful with this one!), also responds to wildcards (like *.txt adds all .txt files)
+1) ```git add``` - stage a file for commit, use (```git add path-of-your-new-file-or-directory```) or ```git add .``` which will add all modified files (careful with this one!), also responds to wildcards (like *.txt adds all .txt files)
 
 2) ```git commit -m "your comment here"``` - commits changes for upload with a comment. If you forget to add the comment, you will get stuck in a weird text editor program called VIM. It's a pain. Press ```esc``` and then ```:wq``` to exit.
 
