@@ -61,7 +61,10 @@ Some things to observe about this animated GIF:
 Visual elements move smoothly and in small increments.
 * It has a variable for the number of frames, 30 gives 30fps, which looks nice in a webpage. But for Gifpop lenticular prints, you’ll need to export a version which has no more than 10 frames, and the amount of movement (pixel deltas) between frames should be even smaller.
 
-Plan ahead and be thoughtful - [here are some reflections from a student who has tried this.](http://golancourses.net/2015/tlangera/02/09/thomas-langerak-gif/)
+Plan ahead and be thoughtful:
+
+* [Here is a video of another class who did this assignment](https://vimeo.com/123751930). Check it out to get a sense of what works in the lenticular print and what doesn't.
+*[Here are some reflections from a student who has tried this.](http://golancourses.net/2015/tlangera/02/09/thomas-langerak-gif/)
 
 ![Gifpop](../images/round.gif)
 
