@@ -2,7 +2,7 @@
 
 ####Update Git
 * Update your fork of the class repository. ([Instructions from here.](https://help.github.com/articles/merging-an-upstream-repository-into-your-fork/))
-  * First make sure your online repository has your homework. If it hasn't, [push your changes to github.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/docs/pushtogit.md)
+  * First make sure your online repository has your homework. If it hasn't, [push your changes to github.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/pushtogit.md)
   * Then in the terminal cd to whereever your local repo is - this is whereever you have been working
   * Make sure your remote and your local repos are synced. (`git status`) will tell you this
   * You may need to `git pull` which will bring in your online changes to your local repository
@@ -20,7 +20,7 @@
 
 ###Examples
 * Try the load image example to see a local server in action.
-* Trigonometry review and loops. All these example are in folders in your 
+* Trigonometry review and loops. All these example are in folders in your
 
 ####Load an Image
 * [Example 2.4: Load an image](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/2-4-LoadImage/image-1)
@@ -62,14 +62,13 @@ Oscillation
 
 ####Trigonometry Exercises
 * See chapter 3 in [Nature of Code.](http://natureofcode.com/) or this draft primer [on trig over here.](http://www.trig.tegabrain.com/)
-* With one line of code, transform the circular motion example into a spiral
-* Create a pulsing sketch where a color oscillates with sine. (You could hack the sinScaling example).
-* Create a spiral function and create a series of spirals, organizing them into a composition. 
+* With one line of code, transform the circular motion example into a spiral (see the trig chapter reading for more on this)
+* Create a pulsing sketch where a color oscillates with sine. (You could hack the sinScaling example using sin to change the color rather than the scale).
 
 
 ###Deliverables:
 
-* Read this excerpt from the [trig chapter from Nature of Code here to better understand the trig examples.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/docs/readings/NoC-Oscillation.pdf)
-* Do the exercises listed above.
-* Work on your loop project. You should start by doing a series of at least 3 handdrawn sketches of how your loop will work. Scan or take photos of these images and make a folder in your student folder in the repo, putting them in there also posting them to a markdown file describing your project process. Come to class with code experiments for refinement next week. You will have most of class to work on your lenticular loop.
+* Read this excerpt from the [trig chapter from Nature of Code here to better understand the trig examples.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/readings/NoC-Oscillation.pdf) I have blanked some of the text out, so as not to confuse you with stuff we havent covered yet. It goes over the difference between transformations and sin and cos equations. It is a chapter from Shiffman's Nature of Code.
+* Do the two exercise listed above.
+* Read the [Project 1 brief in detail](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md). Take a look at the examples of loops from the links and blogs in this outline. Review [this video of some past student work to get a sense of how the prints come out](https://vimeo.com/123751930). Start your project by doing a series of at least 3 hand drawn sketches of how your loop will work. Scan or take photos of these images and make a folder for these images in your student folder in the repo, you will be using them in a post on your project process post and that will be made as a markdown file. Come to class with your project process and code experiments for refinement next week. You will have most of class to work on your lenticular loop, the project will be due for upload by Monday at midnight.
 * If you are interested. [Here is a short history of Javascript.](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)

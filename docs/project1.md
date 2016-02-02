@@ -32,8 +32,9 @@ We will be using the service Gifpop to print our lenticular prints. Gifpop was c
 
 * SKETCH FIRST! Before doing anything, make some (real) sketches in your notebook. Try to come up with graphical concepts.
 * Your design may be abstract, figurative, etc. according to your tastes.
-* GIFS are palette-based images, which means that they must represent all of your frames with a single common palette of just 256 colours. For this reason, you may obtain better results with imagery that just uses a small number of colours, or is monochromatic.
+* GIFS are palette-based images, which means that they must represent all of your frames with a single common palette of just 256 colors. For this reason, you may obtain better results with imagery that just uses a small number of colours, or is monochromatic.
 * Avoid using recorded (i.e. photographic and/or video) media.
+* Try to limit your loop to 10 frames, and make it a resolution of 1500 px by 1500 px. (This works out to be 300dpi for a 5 inch square.)
 * You may find this repository of nonlinear mapping functions helpful although this is for the more advanced coders as these need to be ported to p5js (they are in Processing). [Pattern master repository.](https://github.com/golanlevin/Pattern_Master).
 * Export a series of frames, and compile these into an animated GIF. Here is a helpful tutorial for creating animated GIFs from folders of images, using Photoshop. Remember to set its duration to “forever”, and to adjust the frame durations to something appropriate.
 * Your GIF can be any length, but keeping it under 2MB would be sensible.
@@ -78,5 +79,5 @@ Explore these links for more artists working with loops and animations.
 
 **Assignment Due dates:**
 
-* Your projects are due for upload to the GifPop site by 5pm, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed.
+* Your projects are due for upload to the GifPop site by midnight, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed.
 * Exhibition install in class Week 4 in the last half of class.
