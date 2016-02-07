@@ -44,7 +44,10 @@ Students will:
 
 **Week 3: 8 Feb**
 
-* Assignment 1 due for upload by 5pm Monday
+* (No lecture)
+* Running a local server
+* Overview of objects in Javascript
+* Studio time - assignment 1 due for upload by midnight Monday
 
 
 ###Part 2: Artificial life and animation
