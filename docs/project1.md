@@ -36,7 +36,7 @@ We will be using the service Gifpop to print our lenticular prints. Gifpop was c
 * Avoid using recorded (i.e. photographic and/or video) media.
 * Try to limit your loop to 10 frames, and make it a resolution of 1500 px by 1500 px. (This works out to be 300dpi for a 5 inch square.)
 * You may find this repository of nonlinear mapping functions helpful although this is for the more advanced coders as these need to be ported to p5js (they are in Processing). [Pattern master repository.](https://github.com/golanlevin/Pattern_Master).
-* Export a series of frames, and compile these into an animated GIF. Here is a helpful tutorial for creating animated GIFs from folders of images, using Photoshop. Remember to set its duration to “forever”, and to adjust the frame durations to something appropriate.
+* Export a series of frames, and compile these into an animated GIF. [Here is a helpful tutorial for creating animated GIFs from folders of images, using Photoshop.](http://www.briandalessandro.com/blog/create-an-animated-gif-in-photoshop-cs5/). Remember to set its duration to “forever”, and to adjust the frame durations to something appropriate. You could also try one of the many online gif makers out there such [as this one.](http://gifmaker.me/)
 * Your GIF can be any length, but keeping it under 2MB would be sensible.
 * Test out your GIF to make sure it animates as you expect! You can open most animated GIFs with web browsers to test them out.
 
@@ -82,5 +82,9 @@ Explore these links for more artists working with loops and animations.
 
 **Assignment Due dates:**
 
-* Your projects are due for upload to the GifPop site by midnight, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed.
+* Your projects are due for upload to the Moodle dropbox by midnight, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed.
 * Exhibition install in class Week 4 in the last half of class.
+
+How to submit:
+* Your project folder should be labelled Assignment1_firstname_lastname. In it should be you gif, as well as a folder labeled lastname_jpgs that contains all your gif frames as jpgs. Your jpgs should be sequentially numbered as in the template. Eg. "000.jpg"  "001.jpg" "002.jpg" and so on.
+
