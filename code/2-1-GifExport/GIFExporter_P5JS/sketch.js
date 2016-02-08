@@ -70,5 +70,6 @@ function renderMyDesign (percent) {
 background(255);
   ellipse(x,100,20,20);
   x=map(percent,0,1,0,width);
+    ellipse(width/2,height/2,percent*400,percent*400);
 
 }
