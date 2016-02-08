@@ -1,7 +1,7 @@
 #Objects and Arrays of Objects
 
-There are two ways of writing objects in Javascript.
-These examples are described in the [Shiffman videos 5.4, 6.3, 6.4, 6.5.](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+This tutorial describes the two ways of writing objects in Javascript.  
+These examples are also described in the [Shiffman videos 5.4, 6.3, 6.4, 6.5.](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 The first way to define an object is called a literal object.
 
