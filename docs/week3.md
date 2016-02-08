@@ -14,12 +14,14 @@ var bubble = {
   //they can contain data using this syntax:  
   x: 200,  
   y: 150,  
+  
   //they can also contain functions declared with a similar syntax...  
   display: function(){ 
     stroke(255);  
     strokeWeight(2);  
     ellipse(this.x,this.y,20,20); //this.variable name is used
     }, // also notice that each thing in the list is separated with a comma
+    
     //here is another function
     move: function(){
       this.x=this.x + random(-1,1); //this refers to the variables within our object
@@ -43,12 +45,14 @@ This way of creating an object is called a constructor function.
       //here we use the 'this' keyword to establish the object's variables.
       this.x= dx;
       this.y= dy;
+      
       //the functions are written with a similar syntax to before, but with the 'this'...
       this.display =function(){
         stroke(255);
         strokeWeight(2);
         ellipse(this.x,this.y,20,20); //this.variable name is used...
       }
+      
       //here is another function
       this.move=function(){
         this.x=this.x + random(-1,1);
@@ -60,14 +64,16 @@ This way of creating an object is called a constructor function.
 Here is an entire example that shows how to declare and instantiate an object in your program.
 ```
 var bubbles = [];
+
 function setup() {
     createCanvas(480, 270);
     stroke(0);
     fill(0,0,255);  
-    for(var i = 0; i<3; i++){
+    for(var i = 0; i<3; i++){ //fill our array with new Bubble objects
       bubbles[i]= new Bubble(random(width),random(height));
     }
 }
+
 function draw() {
     background(255,0,0);
     for(var i = 0; i<bubbles.length; i++){
@@ -87,6 +93,7 @@ var Bubble = function(dx, dy){  //You can also put arguments in here to pass int
     strokeWeight(2);
     ellipse(this.x,this.y,20,20); //this.variable name is used...
   }
+  
   //here is another function
   this.move=function(){
     this.x=this.x + random(-1,1);
