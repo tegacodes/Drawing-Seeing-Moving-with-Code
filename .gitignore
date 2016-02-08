@@ -1,0 +1,6 @@
+ # exclude everything except directory foo/bar
+    /*
+    !/Drawing-Seeing-Moving-with-Code
+    /Drawing-Seeing-Moving-with-Code/*
+    !/Drawing-Seeing-Moving-with-Code/code
+     !/Drawing-Seeing-Moving-with-Code/students/nfeuer
