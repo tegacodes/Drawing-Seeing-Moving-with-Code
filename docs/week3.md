@@ -8,15 +8,16 @@ The first way to define an object is called a literal object.
 ##Literal Objects
 Literal objects are blocks of code that contains a list of name value pairs. A literal object can just be a list of variables, or it can also contain functions. The 'this' keyword refers to the variables within the object. Generally you won't use this way of writing an object much, but it is worth knowing what it is!
 
-```var bubble = {
-  //object literals are like lists
-  //they can contain data using this syntax:
-  x: 200,
-  y: 150,
-  //they can also contain functions declared with a similar syntax...
-  display: function(){
-    stroke(255);
-    strokeWeight(2);
+```
+var bubble = {  
+  //object literals are like lists  
+  //they can contain data using this syntax:  
+  x: 200,  
+  y: 150,  
+  //they can also contain functions declared with a similar syntax...  
+  display: function(){ 
+    stroke(255);  
+    strokeWeight(2);  
     ellipse(this.x,this.y,20,20); //this.variable name is used
     }, // also notice that each thing in the list is separated with a comma
     //here is another function
@@ -24,7 +25,8 @@ Literal objects are blocks of code that contains a list of name value pairs. A l
       this.x=this.x + random(-1,1); //this refers to the variables within our object
       this.y=this.y + random(-1,1);
     }
-}```
+}
+```
 
 To refer to any of the values in the literal object, we use the dot operator.
 ```bubble.x;  //refers to the x value of the object```
@@ -34,7 +36,8 @@ To refer to any of the values in the literal object, we use the dot operator.
 The other way of writing objects is used much more often. This style makes our object into a template for creating more of these objects. Its structure also enables us to pass it arguments, so that each version of the object can have varying properties.
 This way of creating an object is called a constructor function.
 
-```//A CONSTRUCTOR function (just like a class in Processing)
+```
+//A CONSTRUCTOR function (just like a class in Processing)
     //By convention we name it with a capital letter.
     var Bubble = function(dx, dy){  //You can also put arguments in here to pass into the object
       //here we use the 'this' keyword to establish the object's variables.
@@ -51,10 +54,12 @@ This way of creating an object is called a constructor function.
         this.x=this.x + random(-1,1);
         this.y=this.y + random(-1,1);
       }
-}```
+}
+```
 
 Here is an entire example that shows how to declare and instantiate an object in your program.
-```var bubbles = [];
+```
+var bubbles = [];
 function setup() {
     createCanvas(480, 270);
     stroke(0);
@@ -87,7 +92,8 @@ var Bubble = function(dx, dy){  //You can also put arguments in here to pass int
     this.x=this.x + random(-1,1);
     this.y=this.y + random(-1,1);
   }
-}```
+}
+```
 
 
 
