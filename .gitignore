@@ -1,5 +1,5 @@
  # exclude everything except directory foo/bar
-    /*
+    
   
     /Drawing-Seeing-Moving-with-Code/docs*
     /Drawing-Seeing-Moving-with-Code/images*
