@@ -20,6 +20,7 @@ By [Evelyn Eastmond](http://www.evelyneastmond.com/)
 [Example 3-4](http://codepen.io/evhan55/pen/jEavOG?editors=001) - mouse dragged vs mouse moved  
 [Example 3-5](http://codepen.io/evhan55/pen/jEavNL?editors=001) - fill dependent on mouse pressed  
 [Example 3-6](http://codepen.io/evhan55/pen/azVaoP?editors=001) - fill dependent on mouse button  
+[Example 3-7](http://codepen.io/tega/pen/zrRVxo?editors=0010) - movement relative to mouse position 
 
 
 ###4: Keyboard Interaction

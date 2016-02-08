@@ -1,5 +1,5 @@
 ##Assignment 1
-*Due Week 3*  
+*Due Week 3 - Monday midnight*  
 
 **Strange Loops: Lenticular Animation**  
 
@@ -32,10 +32,11 @@ We will be using the service Gifpop to print our lenticular prints. Gifpop was c
 
 * SKETCH FIRST! Before doing anything, make some (real) sketches in your notebook. Try to come up with graphical concepts.
 * Your design may be abstract, figurative, etc. according to your tastes.
-* GIFS are palette-based images, which means that they must represent all of your frames with a single common palette of just 256 colours. For this reason, you may obtain better results with imagery that just uses a small number of colours, or is monochromatic.
+* GIFS are palette-based images, which means that they must represent all of your frames with a single common palette of just 256 colors. For this reason, you may obtain better results with imagery that just uses a small number of colours, or is monochromatic.
 * Avoid using recorded (i.e. photographic and/or video) media.
+* Try to limit your loop to 10 frames, and make it a resolution of 1500 px by 1500 px. (This works out to be 300dpi for a 5 inch square.)
 * You may find this repository of nonlinear mapping functions helpful although this is for the more advanced coders as these need to be ported to p5js (they are in Processing). [Pattern master repository.](https://github.com/golanlevin/Pattern_Master).
-* Export a series of frames, and compile these into an animated GIF. Here is a helpful tutorial for creating animated GIFs from folders of images, using Photoshop. Remember to set its duration to “forever”, and to adjust the frame durations to something appropriate.
+* Export a series of frames, and compile these into an animated GIF. [Here is a helpful tutorial for creating animated GIFs from folders of images, using Photoshop.](http://www.briandalessandro.com/blog/create-an-animated-gif-in-photoshop-cs5/). Remember to set its duration to “forever”, and to adjust the frame durations to something appropriate. You could also try one of the many online gif makers out there such [as this one.](http://gifmaker.me/)
 * Your GIF can be any length, but keeping it under 2MB would be sensible.
 * Test out your GIF to make sure it animates as you expect! You can open most animated GIFs with web browsers to test them out.
 
@@ -60,7 +61,10 @@ Some things to observe about this animated GIF:
 Visual elements move smoothly and in small increments.
 * It has a variable for the number of frames, 30 gives 30fps, which looks nice in a webpage. But for Gifpop lenticular prints, you’ll need to export a version which has no more than 10 frames, and the amount of movement (pixel deltas) between frames should be even smaller.
 
-Plan ahead and be thoughtful - [here are some reflections from a student who has tried this.](http://golancourses.net/2015/tlangera/02/09/thomas-langerak-gif/)
+Plan ahead and be thoughtful:
+
+* [Here is a video of another class who did this assignment](https://vimeo.com/123751930). Check it out to get a sense of what works in the lenticular print and what doesn't.
+*[Here are some reflections from a student who has tried this.](http://golancourses.net/2015/tlangera/02/09/thomas-langerak-gif/)
 
 ![Gifpop](../images/round.gif)
 
@@ -78,5 +82,9 @@ Explore these links for more artists working with loops and animations.
 
 **Assignment Due dates:**
 
-* Your projects are due for upload to the GifPop site by 5pm, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed.
+* Your projects are due for upload to the Moodle dropbox by midnight, February 8th, (Week 3). This is not negotiable and if you miss the deadline, you will not be able to have your work printed.
 * Exhibition install in class Week 4 in the last half of class.
+
+How to submit:
+* Your project folder should be labelled Assignment1_firstname_lastname. In it should be you gif, as well as a folder labeled lastname_jpgs that contains all your gif frames as jpgs. Your jpgs should be sequentially numbered as in the template. Eg. "000.jpg"  "001.jpg" "002.jpg" and so on.
+
