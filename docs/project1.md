@@ -1,5 +1,5 @@
 ##Assignment 1
-*Due Week 3*  
+*Due Week 3 - Monday midnight*  
 
 **Strange Loops: Lenticular Animation**  
 
