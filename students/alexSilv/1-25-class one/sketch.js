@@ -11,6 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(rand(255),rand(255),rand(255));
+  background(random(255),5,10);
+  fill(45,random(255),15);
   rect(mouseX,mouseY,75,100);
 }
