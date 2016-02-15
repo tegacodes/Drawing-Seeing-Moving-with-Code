@@ -1,7 +1,7 @@
 var angleVel=0.05; //sets how fast we are going around the circles
 var angle=0; //angle variable
 var offset = 200; //offsets to center point
-var r = 30; //r of oscillation
+var r = 50; //r of oscillation
 
 function setup(){
   createCanvas(400,400);

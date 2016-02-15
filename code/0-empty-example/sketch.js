@@ -1,4 +1,4 @@
-// Learning Processing
+// Sketch ported from Learning Processing
 // Daniel Shiffman
 // http://www.learningprocessing.com
 
