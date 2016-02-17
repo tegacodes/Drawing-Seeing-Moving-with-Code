@@ -19,3 +19,4 @@ If you need to see the p5js example sketches they are here in [this repository.]
 * 1.5 [1.5 Acceleration (The Nature of Code)] (https://www.youtube.com/watch?v=TQ_WZU5s_VA&list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc&index=5)
 
 * Do exercise 1.4 and 1.5 in p5js.*
+
