@@ -1,5 +1,5 @@
 #Getting started with Vectors.
-We will be drawing heavily on [Nature of Code.](http://natureofcode.com/) for the next part of the course.
+We will be drawing heavily on [Nature of Code.](http://natureofcode.com/) for the next part of the course. This week's material is all on pages 27-52.
 
 Ensure you have done the Walker class exercises from last week. I.1, I.2 and I.3 (try some more examples in this chapter if you can)
 
@@ -19,4 +19,6 @@ If you need to see the p5js example sketches they are here in [this repository.]
 * 1.5 [1.5 Acceleration (The Nature of Code)] (https://www.youtube.com/watch?v=TQ_WZU5s_VA&list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc&index=5)
 
 *Do exercise 1.4 and 1.5 in p5js.*
+
+Still confused? Read through the book if you prefer, p27-52.
 
