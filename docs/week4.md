@@ -10,7 +10,8 @@ Watch the following videos, doing the examples in p5js as you go along. The vide
 If you need to see the p5js example sketches they are here in [this repository.](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp01_vectors)
 
 * 1.1 [Vectors (The Nature of Code)](https://vimeo.com/58734251)
-* 1.2 [1.2 PVector class (The Nature of Code)](https://www.youtube.com/watch?v=7nTLzLf7jUg) Remember we are using p5js. So you will be using the [p5js pVector class.](http://p5js.org/reference/#/p5.Vector)
+* 1.2 [1.2 PVector class (The Nature of Code)](https://www.youtube.com/watch?v=7nTLzLf7jUg) Remember we are using p5js. So you will be using the [p5js pVector class.](http://p5js.org/reference/#/p5.Vector). ATTENTION.. I have also found that with this example, it will fail if you use the word 'location' as Shiffman does here and in the book. Use the word 'position' instead. Location is a reserved word in Javascript, it is used to describe window propoerties (we can discuss in class). See [this example in code pen with the bouncing ball vector example using the word position.](http://codepen.io/tega/pen/zrQXOo?editors=0010)
+
 
 *Do exercises 1.1 and 1.2 from the book in p5js (you can do 1.3 if you are excited and familiar with 3D)*
 
