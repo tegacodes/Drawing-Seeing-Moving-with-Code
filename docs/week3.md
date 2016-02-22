@@ -14,14 +14,14 @@ var bubble = {
   //they can contain data using this syntax:  
   x: 200,  
   y: 150,  
-  
+
   //they can also contain functions declared with a similar syntax...  
-  display: function(){ 
+  display: function(){
     stroke(255);  
     strokeWeight(2);  
     ellipse(this.x,this.y,20,20); //this.variable name is used
     }, // also notice that each thing in the list is separated with a comma
-    
+
     //here is another function
     move: function(){
       this.x=this.x + random(-1,1); //this refers to the variables within our object
@@ -45,14 +45,14 @@ This way of creating an object is called a constructor function.
       //here we use the 'this' keyword to establish the object's variables.
       this.x= dx;
       this.y= dy;
-      
+
       //the functions are written with a similar syntax to before, but with the 'this'...
       this.display =function(){
         stroke(255);
         strokeWeight(2);
         ellipse(this.x,this.y,20,20); //this.variable name is used...
       }
-      
+
       //here is another function
       this.move=function(){
         this.x=this.x + random(-1,1);
@@ -93,7 +93,7 @@ var Bubble = function(dx, dy){  //You can also put arguments in here to pass int
     strokeWeight(2);
     ellipse(this.x,this.y,20,20); //this.variable name is used...
   }
-  
+
   //here is another function
   this.move=function(){
     this.x=this.x + random(-1,1);
@@ -105,7 +105,7 @@ var Bubble = function(dx, dy){  //You can also put arguments in here to pass int
 
 
 ###Deliverables:
-* Submit your loops by the end of tonight. Due midnight.
+* Submit your loops by midday on Wednesday to the dropbox on the class Moodle.
 * Watch the following Shiffman videos on objects, revising the examples we did in class. 5.4, 6.3, 6.4, 6.5.
 * Write an object using a constructor function that draws a creature of your imagining.
 * Read through I.1-I.3 in the introduction of [Nature of Code](http://natureofcode.com/), but remembering that we will be writing our code in javascript and not Processing. This means that when you read the term 'class', think of way of writing objects with the constructor function. Contain the code that draws your creature within a function called display(). Doing exercise I.1, creating a random walker class in p5js by adding in a step function to your object code. Also do exercise I.2 and I.3. Note that the functions such as random, noise are the same in both processing and p5js.
