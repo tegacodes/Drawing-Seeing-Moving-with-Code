@@ -17,6 +17,23 @@ Build a virtual online ecosystem.
 * What is a local server and why do we need to use it sometimes?
 * [How to get it running?](https://github.com/processing/p5.js/wiki/Local-server) 
 * Using images (compared to Processing). As Javascript runs asynchronously, we need to handle loading images in a different way to Processing by loading them in a function called preload. Or by using a call back function - See Image 2 example. 
+On a mac:
+Running SimpleHTTPServer
+Your job is to get terminal to point to the directory on your computer where you are storing your p5.js work. On my computer I've got a ton of examples in a directory called "The-Nature-of-Code-Examples-p5.js". So I'm going to browse to it by doing the following.
+
+$ cd /Users/shiffman/Documents/noc/The-Nature-of-Code-Examples-p5
+(You don't need to type the '$' I'm just using it to represent a prompt.)
+
+Once I'm there, I can start up a web server with the following command.
+
+$ python -m SimpleHTTPServer
+I should then see:
+
+Serving HTTP on 0.0.0.0 port 8000 ...
+This means the server is up and running at localhost on port 8000. And this means I can type http://localhost:8000/ into the address of a web browser and I'll see:
+
+
+
 
 ##Review: NoC so far
 This week we will be reviewing and getting up to speed on our progress with Nature of Code. 
