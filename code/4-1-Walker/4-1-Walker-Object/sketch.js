@@ -1,6 +1,4 @@
-// Example 3-1: Object literals
-// A very similar example is described in this video tutorial:
-// https://www.youtube.com/watch?v=pGkSHeEZLMU&index=22&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
+//WALKER OBJECT
 
 var w;
 

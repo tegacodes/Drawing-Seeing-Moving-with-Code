@@ -60,13 +60,13 @@ var Bubble = function(x, y){  //You can also put arguments in here to pass into 
     strokeWeight(2);
     ellipse(this.x,this.y,20,20); //this.variable name is used...
 
-  }
+  },
   //here is another function
   this.move=function(){
     this.x=this.x + random(-1,1);
     this.y=this.y + random(-1,1);
 
-  }
+  },
 
 
 

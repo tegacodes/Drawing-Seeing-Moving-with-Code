@@ -17,7 +17,7 @@ function setup() {
 
 function draw() {
   background(255,0,0);
-  for(var i = 0; i<bubbles.length; i++){
+  for(var i = 0; i<10; i++){
     bubbles[i].display(); //call the function display from the bubble OBJECT
     bubbles[i].move(); // call the function move from the bubble object.
     if(bubbles[i].x>width||bubbles[i].x<0){

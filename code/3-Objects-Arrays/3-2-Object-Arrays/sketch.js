@@ -5,7 +5,7 @@ var bubbles = [];
 
 function setup() {
   createCanvas(480, 270);
-  for(var i = 0; i<400; i++){
+  for(var i = 0; i<4; i++){
 
 
     bubbles[i]= { //WE ARE PUTTING OUR OBJECT LITERAL INTO OUR ARRAY
@@ -25,19 +25,18 @@ function setup() {
       move: function(){
         this.x=this.x + random(-1,1);
         this.y=this.y + random(-1,1);
-
       }
 
     }
-    stroke(0);
-    fill(0,0,255);
-
   }
+  stroke(0);
+  fill(0,0,255);
+}
 
-  function draw() {
-    background(255,0,0);
-    for(var i = 0; i<bubbles.length; i++){
-      bubbles[i].display(); //call the function display from the bubble OBJECT
-      bubbles[i].move(); // call the function move from the bubble object.
-    }
+function draw() {
+  background(255,0,0);
+  for(var i = 0; i<bubbles.length; i++){
+    bubbles[i].display(); //call the function display from the bubble OBJECT
+    bubbles[i].move(); // call the function move from the bubble object.
   }
+}
