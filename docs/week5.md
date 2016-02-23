@@ -1,7 +1,7 @@
 #Week 6
 
 ##Artificial Life
-* Introduction to Artificial Life lecture materials are here. 
+* Introduction to [Artificial Life lecture materials are here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-5.md) 
 * For the next few weeks we will be working towards building a virtual online ecosystem. This will be Assignment 2 for this class. 
 
 ##Git Update
