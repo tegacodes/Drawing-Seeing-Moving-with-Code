@@ -56,16 +56,17 @@ Students will:
 
 **Week 4: 15 Feb**
 
-* Intro to Artificial Life and Simulation
 * Installation of lenticular exhibition (12.30-2.30)
 * Documentation workshop
 
 **Week 5: 22 Feb**
 
-* Vectors and forces
+* [Intro to Artificial Life and Simulation](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-5.md)
+* Vectors 
 
 **Week 6: 29 Feb (omg it's a leap year)**
 
+* Forces
 * Oscillation and particle systems
 
 **Week 7: 7 Mar**
