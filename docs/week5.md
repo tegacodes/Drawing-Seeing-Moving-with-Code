@@ -1,12 +1,12 @@
 #Week 6
 
 ##Artificial Life
-* Introduction to [Artificial Life lecture materials are here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-5.md) 
-* For the next few weeks we will be working towards building a virtual online ecosystem. This will be Assignment 2 for this class. 
+* Introduction to [Artificial Life lecture materials are here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-5.md)
+* For the next few weeks we will be working towards building a virtual online ecosystem. This will be Assignment 2 for this class.
 
 ##Git Update
 * Maintain your local repository. Submit your homework via a link to your folder for this week or via dropping a zip of this folder into the Moodle dropbox.
-*  I will update to the class folder manually. 
+*  I will update to the class folder manually.
 *  Note the new drag and drop functionality.
 
 ##Looking inside p5
@@ -15,7 +15,7 @@
 ##Local Server
 
 * What is a local server and why do we need to use it sometimes?
-* [For windows machines see this guide on how to get it running?](https://github.com/processing/p5.js/wiki/Local-server) 
+* [For windows machines see this guide on how to get it running?](https://github.com/processing/p5.js/wiki/Local-server)
 * On a mac:
 Easiest way is to run a SimpleHTTPServer
 1) Open terminal, get terminal to point to the directory on your computer where you are storing your p5.js work. On my computer I've got a ton of examples in a directory called "The-Nature-of-Code-Examples-p5.js". So I'm going to browse to it by doing the following.
@@ -30,18 +30,18 @@ I should then see:
 ```Serving HTTP on 0.0.0.0 port 8000 ...```
 This means the server is up and running at localhost on port 8000. And this means I can type ```http://localhost:8000/``` into the address of a web browser and I'll see:
 
-* See examples using images (compared to Processing) in code folder. As Javascript runs asynchronously, we need to handle loading images in a different way to Processing by loading them in a function called preload. Or by using a call back function - See Image 2 example. 
+* See examples using images (compared to Processing) in code folder. As Javascript runs asynchronously, we need to handle loading images in a different way to Processing by loading them in a function called preload. Or by using a call back function - See Image 2 example.
 
 ##Review: NoC so far
-This week we will be reviewing and getting up to speed on our progress with Nature of Code. 
+This week we will be reviewing and getting up to speed on our progress with Nature of Code.
 
 * Review of motion and distribution: [noise()](http://codepen.io/tega/pen/MKMQxX?editors=0010), random(), [gaussian()](http://codepen.io/tega/pen/RrzQdr?editors=0010#), [probability().](http://codepen.io/pen/?editors=0010)
 * Review of vectors so far...  NoC: p27-52.
 
 ##Vectors
 
-* What is a vector? A vector is a quantity that has a direction. Or in code, we can think of it as a variable that holds 2 (or 3) numbers. 
-* Note differences in syntax in comparison with Processing. Check out how to implement the [p5.Vector class](http://p5js.org/reference/#/p5.Vector) in p5js. 
+* What is a vector? A vector is a quantity that has a direction. Or in code, we can think of it as a variable that holds 2 (or 3) numbers.
+* Note differences in syntax in comparison with Processing. Check out how to implement the [p5.Vector class](http://p5js.org/reference/#/p5.Vector) in p5js.
 * If you haven't gone through the steps from last week please do so, doing the exercises in Chapter 1 of NoC.
 
 <-------------------- Review from last week ------------------->
@@ -62,23 +62,23 @@ If you need to see the p5js example sketches they are here in [THIS P5JS CODE RE
 * [1.4 Vector Math II (Nature of Code)](https://www.youtube.com/watch?v=uHusbFmq-4I)
 * [1.5 Acceleration (The Nature of Code)] (https://www.youtube.com/watch?v=TQ_WZU5s_VA&list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc&index=5)
 
-*Do exercise 1.4 and 1.5 in p5js.*
+*Do exercise 1.4 and 1.5 in p5js.* (Need help? See the worked example in the code folder called "Ex-1.9--1.5-car". Run it and adjust it. Can you change it so the car does not leave the screen but is confined to the screen. Can you change it so the car can not reverse but just stops. Ensure you understand it.)
 
 Still confused? Read through the book p27 chapter 1.
 <---------------------------------------------------------->
 
-Continuation of this .. keep going to the end of this chapter. 
+Continuation of this .. keep going to the end of this chapter.
 
 * [See this example on how to normalize a vector.](http://codepen.io/tega/pen/EPBQzM?editors=0010#)
 * Mover example reviewed - [object and vectors.](http://codepen.io/tega/pen/jWjZjZ?editors=0010)
 * Static and non static functions - review example: code/5-1-Vectors/1.92-Static-vectors. Do exercise 1.7, see example in p5js in code folder [or here.](http://codepen.io/tega/pen/xZoyWm?editors=0011)
 * Watch the last video of this chapter - [1.6 Accelerations towards mouse  ](https://www.youtube.com/watch?v=mWJkvxQXIa8&list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc) and/or read 1.10.
-* Interactive Mover -> Can you make the movers move towards a different point? Do exercise 1.8 in NoC. 
-* Make an array of Movers. 
+* Interactive Mover -> Can you make the movers move towards a different point? Do exercise 1.8 in NoC.
+* Make an array of Movers.
 
 ##Deliverables
 
 * Read through the [Introduction of Mitchel Whitelaw's metacreation.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/readings/mitchell-whitelaw-metacreation-art-and-artificial-life.pdf)
-* Do the exercises in NoC chapter 1 on vectors, read chapter and review the [Shiffman videos on Vectors as needed.](https://www.youtube.com/watch?v=mWJkvxQXIa8&list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc) 
-* Use the mover class to create a virtual creature using vectors. Your creature should have specific movement characteristics. See page 62 of NoC for the details on this. 
+* Do the exercises in NoC chapter 1 on vectors, read chapter and review the [Shiffman videos on Vectors as needed.](https://www.youtube.com/watch?v=mWJkvxQXIa8&list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc)
+* Use the mover class to create a virtual creature using vectors. Your creature should have specific movement characteristics. See page 62 of NoC for the details on this.
 * Bring an example of an artificial life art or design project to class for next week.
