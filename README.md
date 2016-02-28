@@ -62,7 +62,7 @@ Students will:
 **Week 5: 22 Feb**
 
 * [Intro to Artificial Life and Simulation](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-5.md)
-* Vectors 
+* [Vectors](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week5.md)
 
 **Week 6: 29 Feb (omg it's a leap year)**
 
