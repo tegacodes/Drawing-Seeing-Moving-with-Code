@@ -6,17 +6,14 @@ var Mover = function() {
   this.mass = 1;
   this.position = createVector(30, 30);
   this.velocity = createVector(0, 0);
-  this.acceleration = createVector(0, 0);
+  this.acceleration = createVector(0.0, 0.01);
 
-  this.applyForce = function(force) {
-    var f = p5.Vector.div(force, this.mass);
-    this.acceleration.add(f);
-  };
+
 
   this.update = function() {
     this.velocity.add(this.acceleration);
     this.position.add(this.velocity);
-    this.acceleration.mult(0);
+
   };
 
   this.display = function() {

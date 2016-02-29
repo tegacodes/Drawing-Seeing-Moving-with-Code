@@ -28,8 +28,19 @@ function setup(){
   println("u :"+ u); //u remains the same
 
   //same goes for sub(), mult(), div()
+  var acceleration = createVector(1,1);
+  var mouse = createVector(mouseX, mouseY);
+  var position = createVector(2,2);
 
+  acceleration = p5.Vector.sub(mouse,position); //input vectors remain the same
+  print("acceleration1:"+acceleration)
+  print("mouse1:"+mouse)
+  print("position:"+position)
 
+  mouse.sub(position); //changes mouse to the subtraction
+
+  print("mouse2:"+mouse) //mouse is changed
+  print("position2:"+position) //position is the same
 }
 
 function draw(){
