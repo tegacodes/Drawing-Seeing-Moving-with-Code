@@ -18,7 +18,7 @@
 and focus. Write a research and discovery post on this person and their work including at least one image and link to a project. If you 
 are stuck on who to choose, these talks are great:  
 
-* [Robert Hodgin's talk from Eyeo.](https://vimeo.com/103537259)  
+* [Robert Hodgin's talk from Eyeo.](https://vimeo.com/103537259)
 * [Marias Watz on Algorithms](https://vimeo.com/46903693)
 * [James George on experimental cameras and capture](https://vimeo.com/134973504)
 * [Leah Buechley on tools, physical computing and making](https://vimeo.com/110616469)
