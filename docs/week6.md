@@ -10,8 +10,9 @@
  
 
 ###Deliverables:
-* Read Chapter 2: Forces and Chapter 3: Oscillation
+* Read Chapter 2: Forces 
 * Do exercises from 2.
-* Add forces into your creature project for next week.
+* Add forces into your creature project. 
+* Read Chapter 3, and test out some of the examples, add some sort of oscillation into your ecosystem project, as outlined on page 142.
 * Reading: Chapter 7: Emergence from Mitchel Whitelaw Metacreation (in readings folder). Make a research and discovery post researching and discussing an example of emergence in light of the ideas in this chapter. This could either be from an artwork or a real life process. 
 
