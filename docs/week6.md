@@ -1,6 +1,6 @@
 #Forces
 
-* Review AI examples and reading my Mitchel Whitelaw.
+* Review AI examples and reading by Mitchel Whitelaw.
 * Review of [static and non-static methods in Javascript](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/code/5-1-Vectors/1.92-Static-vectors/sketch.js)
 * Review of Newton's laws
 * Experimentation with writing an a force accumulation function
