@@ -68,6 +68,11 @@ for (var i = particles.length-1; i >= 0; i--) { //go backwards
   }
 ```
 
+####Sound Library
+
+(Download sound libary here)[https://github.com/processing/p5.js-sound]
+
+
 ####Deliverables
 
 * Project 2 Part 1 submission is due at the start of class the next time we meet. Prepare your project. 
