@@ -10,6 +10,7 @@ function setup() {
 
 function draw() {
   background(51);
+  //adding a particle object to our empty arrays...
   particles.push(new Particle(createVector(width/2, 50)));
 
   // Looping through backwards to delete
@@ -21,5 +22,7 @@ function draw() {
       particles.splice(i, 1);
     }
   }
+
+  println(particles.length);
 
 }

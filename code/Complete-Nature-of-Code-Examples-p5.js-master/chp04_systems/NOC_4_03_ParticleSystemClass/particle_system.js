@@ -3,7 +3,7 @@
 // http://natureofcode.com
 
 var ParticleSystem = function(position) { //give it a location
-	this.origin = position.get(); //put the vector into origin
+	this.origin = position.copy(); //put the vector into origin
 	this.particles = []; //make an empty array
 
   this.addParticle = function() {
