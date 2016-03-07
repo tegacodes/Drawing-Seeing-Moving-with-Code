@@ -70,7 +70,7 @@ for (var i = particles.length-1; i >= 0; i--) { //go backwards
 
 ####Sound Library
 
-(Download sound libary here)[https://github.com/processing/p5.js-sound]
+[Download sound libary here](https://github.com/processing/p5.js-sound). To run examples. Download the zip, note where you save this folder. Run a local server from the folder, so the server should be running in the folder named 'p5.js-sound-master'. Then if you go to your browser and to http://localhost:8000/, you should see the examples listed. 
 
 
 ####Deliverables
