@@ -4,15 +4,15 @@
 
 // Particles are generated each cycle through draw(),
 // fall with gravity and fade out over time
-// A ParticleSystem object manages a variable size 
+// A ParticleSystem object manages a variable size
 // list of particles.
 
 // an array of ParticleSystems
 var systems = [];
 
 function setup() {
-  var text = createP("click to add particle systems");
-  text.position(10,365);
+  var t = "click to add particle systems";
+  text(t,10,365);
 
   createCanvas(640,360);
 }

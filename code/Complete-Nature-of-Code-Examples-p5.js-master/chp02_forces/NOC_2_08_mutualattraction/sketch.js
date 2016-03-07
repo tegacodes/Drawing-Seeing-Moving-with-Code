@@ -17,6 +17,7 @@ function setup() {
 function draw() {
   background(51);
 
+//this double for loop means for each mover, you pass it all of the other movers in the array
   for (var i = 0; i < movers.length; i++) {
     for (var j = 0; j < movers.length; j++) {
       if (i !== j) {

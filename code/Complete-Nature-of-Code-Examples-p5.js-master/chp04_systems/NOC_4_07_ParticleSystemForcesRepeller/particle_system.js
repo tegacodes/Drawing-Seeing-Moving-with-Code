@@ -3,7 +3,7 @@
 // http://natureofcode.com
 
 var ParticleSystem = function(position) {
-	this.origin = position.get();
+	this.origin = position.copy();
   	this.particles = [];
 
   this.addParticle = function() {
@@ -20,18 +20,5 @@ var ParticleSystem = function(position) {
     }
   };
 
-  // A function to apply a force to all Particles
-  this.applyForce = function(f) {
-    for(var i = 0; i < this.particles.length; i++){
-      this.particles[i].applyForce(f);
-    }
-  };
 
-  this.applyRepeller = function(r) {
-    for(var i = 0; i < this.particles.length; i++){
-      var p = this.particles[i];
-      var force = r.repel(p);
-      p.applyForce(force);
-    }
-  };
 };
