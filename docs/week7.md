@@ -30,32 +30,33 @@ console.log(arr); // [30, 10, 0, true]```
 
 **indexOf(elt)**
 
-Returns the index of given element, or returns -1 if it's not found.
+Returns the index of given element, or returns -1 if its not found.
 
 ```var array = [2, 5, 9];   
-var index = array.indexOf(2); // 0  
-index = array.indexOf(7); // -1  
-index = array.indexOf(9, 2); // 2  
-index = array.indexOf(2, -1); // -1  
-index = array.indexOf(2, -3); // 0```
+var index = array.indexOf(2); // 0   
+index = array.indexOf(7); // -1   
+index = array.indexOf(9, 2); // 2   
+index = array.indexOf(2, -1); // -1    
+index = array.indexOf(2, -3); // 0   
+```
 
 **Removing an element: splice()**
 
 Remove one element:
-```var fruits = ["Apple", "Banana", "Mango"];  
-var removedItem = fruits.splice(pos, 1); // this is how to remove an item  
-// ["Strawberry", "Mango"]  
+```var fruits = ["Apple", "Banana", "Mango"];   
+var removedItem = fruits.splice(pos, 1); // this is how to remove an item   
+// ["Strawberry", "Mango"]   
 ```
 
 When removing an element using a for loop, we must loop backwards, so we start at i=articles.length-1 and go back throuogh the array. 
 If you go forwards you continue to array.length but you've changed the length by deleting an element before you get there and it gets confused!
 
-```for (var i = particles.length-1; i >= 0; i--) { //go backwards 
-    var p = particles[i]; //put particle into p  
-    p.run();   
-    if (p.isDead()) {  
-      //remove the particle  
-      particles.splice(i, 1); //remove particle at i  
+```for (var i = particles.length-1; i >= 0; i--) { //go backwards   
+    var p = particles[i]; //put particle into p   
+    p.run();    
+    if (p.isDead()) {   
+      //remove the particle   
+      particles.splice(i, 1); //remove particle at i   
     }  
   }```
 
