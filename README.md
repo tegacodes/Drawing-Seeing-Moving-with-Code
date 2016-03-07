@@ -71,7 +71,7 @@ Students will:
 
 **Week 7: 7 Mar**
 
-* Oscillation and particle systems
+* [Particle systems](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week7.md)
 * Studio time
 
 **14 Mar: No class**
