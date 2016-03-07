@@ -13,7 +13,7 @@ This class is also structured by a series of projects, their briefs will be post
 *Due Week 8*
 ###Project 2 - Digital Ecosystem: Simulation and Artificial Life
 *Due Week 11*
-###Project 3 - Movement
+###Project 3 - Live Web
 *Due Week 14*
 ###Project 4 - Final Project
 
