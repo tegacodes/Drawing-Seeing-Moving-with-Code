@@ -8,14 +8,15 @@ Create a virtual ecosystem that is inhabited by at least two different types of 
 
 Each species of organism is to be a different Javascript object, so your code will have at least two different objects. 
 
-**Deliverables:**
-Part 1: 
+####Deliverables:   
+
+**Part 1:** 
 
 * A basic version of your ecosystem is due at the start of class on March 28th. Your ecosystem must have at least two virtual creatures with unique appearances, movements and behaviors. 
 * Upload your code to your student folder in your github repository by the start of class.
 * Be ready to work with this Part 1 version of your assignment in class in March 28th with guest artists Sam Lavigne
 
-Part 2:
+**Part 2:**
 
 * Complete the live web version of your ecosystem adding your additional behaviors, interactions and user inputs. 
 * Submit a zip folder of your ecosystem code to the Moodle dropbox.
