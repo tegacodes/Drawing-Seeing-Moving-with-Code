@@ -85,13 +85,13 @@ Students will:
 **Week 8: 28 Mar**
 
 * Assignment 2A due today
-* Visiting artist Sam Lavigne and live web workshop
+* [Visiting artist Sam Lavigne](http://lav.io/) and a live web workshop.
 
 ###Part 4: Seeing
 
 **Week 9**
 
-* Assignment 2B due today
+* Assignment 2B due this week.
 * Computer vision workshop
 
 **Week 10**
