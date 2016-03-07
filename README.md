@@ -66,12 +66,12 @@ Students will:
 
 **Week 6: 29 Feb (omg it's a leap year)**
 
-* Forces
-* Oscillation and particle systems
+* [Genetic Algorithms](https://docs.google.com/presentation/d/1vIWGYFmjf9XgswiAwNIHIg7y4FT0HnjhDBSFqtv_vHs/pub?start=false&loop=false&delayms=3000)
+* [Forces tutorial](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week6.md)
 
 **Week 7: 7 Mar**
 
-* Physics libraries  
+* Oscillation and particle systems
 * Studio time
 
 **14 Mar: No class**

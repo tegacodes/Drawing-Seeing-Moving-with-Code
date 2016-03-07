@@ -1,25 +1,20 @@
 #Forces
 
-* Review AI examples and reading my Mitchel Whitelaw.
+* Review AI examples and reading by Mitchel Whitelaw.
+* Discussion of Genetic Algorithms examples and concepts. 
 * Review of [static and non-static methods in Javascript](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/code/5-1-Vectors/1.92-Static-vectors/sketch.js)
 * Review of Newton's laws
 * Experimentation with writing an a force accumulation function
 * Consideration of friction forces
 * Attraction forces. 
 
- 
+[Shiffman video tutorials to review these concepts:](https://www.youtube.com/watch?v=II1A3bBo6gM&list=PLRqwX-V7Uu6ZRrqLcQ5BkBKmBLiGD8n4O)
+
 
 ###Deliverables:
-* Read Chapter 2: Forces and Chapter 3: Oscillation
+* Read Chapter 2: Forces 
 * Do exercises from 2.
-* Add forces into your creature project for next week.
+* Add forces into your creature project and submit a moving creature (or two) that experiences forces.
+* Read Chapter 3, and test out some of the examples, add some sort of oscillation to your ecosystem project, as outlined on page 142.
+* Reading: Chapter 7: Emergence from Mitchel Whitelaw Metacreation (in readings folder). Make a research and discovery post researching and discussing an example of emergence in light of the ideas in this chapter. This could either be from an artwork or a real life process. 
 
-* Reading: Select a talk from an [Eyeo festival speaker.](https://vimeo.com/eyeofestival/videos) You are to research the artist's work, what tools they use, what is their background
-and focus. Write a research and discovery post on this person and their work including at least one image and link to a project. If you 
-are stuck on who to choose, these talks are great:  
-
-* [Robert Hodgin's talk from Eyeo.](https://vimeo.com/103537259)
-* [Marias Watz on Algorithms](https://vimeo.com/46903693)
-* [James George on experimental cameras and capture](https://vimeo.com/134973504)
-* [Leah Buechley on tools, physical computing and making](https://vimeo.com/110616469)
-* [Allison Parish on bots, and generative text](https://vimeo.com/134734729)
