@@ -1,6 +1,6 @@
 ##Assignment 2A
 *Weeks (6-10).*
-*Part 1: March 28th, start of class.*
+*Part 1: March 28th, start of class.*  
 *Part 2: Week 9, March 4th.*
 
 ###Artificial Life and Simulation
