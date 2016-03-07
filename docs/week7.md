@@ -68,4 +68,7 @@ for (var i = particles.length-1; i >= 0; i--) { //go backwards
   }
 ```
 
+####Deliverables
 
+* Project 2 Part 1 submission is due at the start of class the next time we meet. Prepare your project. 
+* Watch this talk by designer and developer [Robert Hodgin at Eyeo 2016 and see his unusual examples of particle systems.](https://vimeo.com/103537259) 
