@@ -2,25 +2,28 @@
 // Daniel Shiffman
 // http://natureofcode.com
 
-var Mover = function() {
-  this.mass = 1;
-  this.position = createVector(30, 30);
+var Mover = function(m,x,y) {
+  this.mass = m;
+  this.position = createVector(x,y);
   this.velocity = createVector(0, 0);
-  this.acceleration = createVector(0.0, 0.01);
+  this.acceleration = createVector(0, 0);
 
-
+  this.applyForce = function(force) {  //**********
+    var f = p5.Vector.div(force, this.mass);
+    this.acceleration.add(f); //add to force.
+  };
 
   this.update = function() {
     this.velocity.add(this.acceleration);
     this.position.add(this.velocity);
-
+    this.acceleration.mult(0); // set our acceleration back to zero *************
   };
 
   this.display = function() {
     stroke(0);
     strokeWeight(2);
     fill(255, 127);
-    ellipse(this.position.x, this.position.y, 48, 48);
+    ellipse(this.position.x, this.position.y, this.mass*16, this.mass*16);
   };
 
   this.checkEdges = function() {

@@ -23,7 +23,7 @@ function setup(){
   println("p: "+p); //notice how p remains the same if static add is used
   println("u: "+u);
 
-  println("x :"+ p.add(u));
+  println("p.add(u) :"+ p.add(u));
   println("p :"+ p); //non static add, changes p to the sum
   println("u :"+ u); //u remains the same
 
