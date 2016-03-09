@@ -67,6 +67,9 @@ for (var i = particles.length-1; i >= 0; i--) { //go backwards
     }  
   }
 ```
+####Collisions
+
+See the examples on collisions in [this repository.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/7-Collisions)  
 
 ####Sound Library
 
