@@ -4,7 +4,9 @@
 
 // Child class constructor
 var Confetti = function(position) {
-  Particle.call(this, position); //<<<<-------- take particle object as parent
+  Particle.call(this, position); //<<<<-------- set up parent
+
+
 
   // Override the display method
   this.display = function(){
@@ -19,8 +21,9 @@ var Confetti = function(position) {
     rect(0, 0, 12, 12);
     pop();
   };
+
 };
 
 // Inherit from the parent class
-Confetti.prototype = Object.create(Particle.prototype); //<---- create confetti object from particle prototype
-Confetti.prototype.constructor = Confetti; //<------ use the constructor above instead of the particle one.
+Confetti.prototype = Object.create(Particle.prototype); //<---- set up inheritance from particle prototype
+Confetti.prototype.constructor = Confetti; //<------ define constructor as confetti constructor

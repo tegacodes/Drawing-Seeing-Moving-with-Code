@@ -20,19 +20,23 @@ function draw() {
   attractor.display();
 
   for (var i = 0; i < movers.length; i++) {
-    var force = attractor.calculateAttraction(movers[i]);
-    movers[i].applyForce(force);
+    //var force = attractor.calculateAttraction(movers[i]);
+  //  movers[i].applyForce(force);
 
     movers[i].update();
     movers[i].display();
 
+//check for collisions
     attractor.collide(movers[i]);
     if(attractor.bang==true){
+      //if yes, remove from the array
       movers.splice(i,1);
       attractor.bang=false;
     }
   }
 }
+
+
 
 function mouseMoved() {
   attractor.handleHover(mouseX, mouseY);

@@ -75,6 +75,7 @@ var Attractor = function() {
 
   };
 
+//check for collisions
     this.collide = function(m){ //m is each of the mover objects
       if(dist(m.position.x,m.position.y,this.position.x,this.position.y)<(m.mass*8+this.mass)){
 

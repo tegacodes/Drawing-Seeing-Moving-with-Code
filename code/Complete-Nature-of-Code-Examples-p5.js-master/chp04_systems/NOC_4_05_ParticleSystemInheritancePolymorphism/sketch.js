@@ -4,11 +4,12 @@
 
 // Particles are generated each cycle through draw(),
 // fall with gravity and fade out over time
-// A ParticleSystem object manages a variable size 
+// A ParticleSystem object manages a variable size
 // list of particles.
 
 
 var particleSystem;
+var confetti;
 
 function setup() {
   createCanvas(640, 360);
@@ -20,4 +21,3 @@ function draw() {
   particleSystem.addParticle();
   particleSystem.run();
 }
-

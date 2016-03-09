@@ -9,8 +9,8 @@
 var vehicles = [];
 
 function setup() {
-  var text = createP("Drag the mouse to generate new vehicles.");
-  text.position(10,365);
+
+
 
   createCanvas(640,360);
   // We are now making random vehicles and storing them in an array
@@ -22,12 +22,12 @@ function setup() {
 function draw() {
   background(51);
 
-  
+
   for (var i = 0; i < vehicles.length; i++) {
     vehicles[i].separate(vehicles);
     vehicles[i].update();
     vehicles[i].borders();
-    vehicles[i].display(); 
+    vehicles[i].display();
   }
 
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
@@ -35,7 +35,7 @@ function draw() {
     vehicle.separate(vehicles);
     vehicle.update();
     vehicle.borders();
-    vehicle.display();   
+    vehicle.display();
   });*/
 
 }
@@ -44,6 +44,3 @@ function draw() {
 function mouseDragged() {
   vehicles.push(new Vehicle(mouseX,mouseY));
 }
-
-
-
