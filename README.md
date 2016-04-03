@@ -88,16 +88,17 @@ Students will:
 * [Visiting artist Sam Lavigne](http://lav.io/) and a live web workshop.
 * [Tutorial repository here!!](https://github.com/antiboredom/websocket-p5)
 
-###Part 4: Seeing
 
 **Week 9**
 
-* Assignment 2B due this week.
-* Computer vision workshop
+* Another look: [Art on the live web](https://docs.google.com/presentation/d/1cW1TUh1TgIUZLNoAOnIWIsDj0v51Yh45-OyoDiQFJMI/edit?usp=sharing)
+* Assignment 2B work to be submitted this week.
+
+###Part 4: Seeing
 
 **Week 10**
 
-* Face as interface
+* Computer vision and face as interface
 * p5js using OSC workshop, [from this code repository.](https://github.com/tegacodes/p5js-osc)
 
 **Week 11**
@@ -120,6 +121,5 @@ Students will:
 
 ##Assigment Briefs
 * [Assignment 1](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md) - Due Week 3
-* [Assignment 2](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project2.md) - Due Week 8
-* Assignment 3 - Due Week 11
-* Assignment 4 - Due Week 14
+* [Assignment 2A and 2B](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project2.md) - Due Week 8
+* Assignment 3 - Due Week 14
