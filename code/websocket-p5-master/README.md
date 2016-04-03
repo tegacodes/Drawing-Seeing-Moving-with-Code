@@ -130,44 +130,78 @@ In `index.html`:
 
 ## Deploying to Heroku
 
+Make sure you have cd 'ed into the project folder that you want to deploy to heroku. 
 ### Create a git repository
 
-create a .gitignore file and put this in it:
+Create a .gitignore file and put node_modules in it. This command will do this:
 
 ```
-node_modules/
+echo 'node_modules/' >gitignore
 ```
+
+Now mke your local folder a Git repository. This adds a .git folder to the current directory and makes it possible to start recording revisions of the project. It is a bit of software that tracks what version is in your local folder and what version is in your remote folder (on the server), it is what github is built with. You do this by:
 
 Initialize a git repo:
 
-```bash
+```
 git init
-git add .
-git commit -m 'initial commit'
 ```
 
-### Create the Heroku instance
+###Authenticate with Heroku
 
-```bash
-heroku create
+Sign up for a [Heroku account.](https://signup.heroku.com/www-header) Choose node.js as your development language. Login to your account and follow the instructions to download and install the Heroku toolkit for your operating system from here. (https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up).  
+ 
+Login to heroku:  
+
+```
+heroku login
 ```
 
-Add a Procfile (Heroku needs this in order to know what to do with your server). Create a new file called Profile (no extension) and stick this in:
+and enter your heroku user name and password. 
+
+###Create Heroku instance and put your app on this server.
+
+You can do this with the following command. This creates a placeholder for where we will upload your new app on the Heroku server. Doesn’t matter what you call it here, its just for your future reference. I’ve called mine myAwesomeProject.
+
+```heroku create myAwesomeProject```   
+You should see text print out in the terminal like:    
+```
+Creating filebotty… done, stack is cedar-14
+https://filebotty.herokuapp.com/ | https://git.heroku.com/filebotty.git
+```
+
+You can check also this worked by going to the heroku website and now looking at the menu option myApps where you should see the name of your app in the list.  
+
+Add a Procfile (Heroku needs this in order to know what to do with your server). Create a new file called Procfile (no extension) if there is not one already in your repo, and stick this in:
 
 ```
 web: node server.js
 ```
-
-Then commit your change to the git repo:
-
-```bash
-git add .
-git commit -m 'added procfile for heroku'
+You can do this as follows:
+```
+echo 'web: node server.js' >Procfile
 ```
 
-
+###Add your files  
+Set this up as your remote directory so that it will upload.  (This is the same as how you upload to the github server). Use the command:
+```
+git add .
+git commit -m 'initial commit'
+```
 ### Deploy
 
 ```bash
 git push heroku master
 ```
+
+###Making Changes. 
+If you change and need to update your repo, Commit your change to the git repo:
+
+```
+git add .
+git commit -m 'added procfile for heroku'
+git push heroku master
+```
+
+
+
