@@ -131,7 +131,13 @@ In `index.html`:
 ## Deploying to Heroku
 
 Make sure you have cd 'ed into the project folder that you want to deploy to heroku. 
-### Create a git repository
+### Initialize a git repository
+
+Make your local folder a Git repository. This adds a .git folder to the current directory and makes it possible to start recording revisions of the project. It is a bit of software that tracks what version is in your local folder and what version is in your remote folder (on the server), it is what github is built with. You do this by:
+
+```
+git init
+```
 
 Create a .gitignore file and put node_modules in it. This command will do this:
 
@@ -139,13 +145,6 @@ Create a .gitignore file and put node_modules in it. This command will do this:
 echo 'node_modules/' >gitignore
 ```
 
-Now mke your local folder a Git repository. This adds a .git folder to the current directory and makes it possible to start recording revisions of the project. It is a bit of software that tracks what version is in your local folder and what version is in your remote folder (on the server), it is what github is built with. You do this by:
-
-Initialize a git repo:
-
-```
-git init
-```
 
 ###Authenticate with Heroku
 
@@ -195,7 +194,7 @@ git push heroku master
 ```
 
 ###Making Changes. 
-If you change and need to update your repo, Commit your change to the git repo:
+If you make changes and need to update your repo, Commit your change to the git repo:
 
 ```
 git add .
