@@ -8,14 +8,17 @@ This class is also structured by a series of projects, their briefs will be post
 
 ##Project Briefs
 
-*To be uploaded Week 3 by midnight*
 ###[Project 1 - Strange Loops: Lenticular Animation](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md)
-*Due Week 8*
+*To be uploaded Week 3 by midnight*
+
 ###[Project 2A - Digital Ecosystem: Simulation and Artificial Life](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project2.md)
-*Due end of Week 9*
+*Due Week 8*
+
 ###Project 2B - Live Web
-*Due Week 14*
+*Due end of Week 9*
+
 ###Project 4 - Final Project
+*Due Week 14*
 
 ##Discovery and Research Posts
 You are to write a series of Discovery and Research posts throughout the term on materials that relate to the project work in this class. These tasks require you to write 200 words on the topic with links to the artists, projects, books or technologies that you mention. These are research tasks adn require you to read blogs, books, magazines, looks at websties, go to galleries, explore what tools artists you see are using etc. 
