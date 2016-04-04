@@ -92,6 +92,7 @@ Students will:
 **Week 9**
 
 * Another look: [Art on the live web](https://docs.google.com/presentation/d/1cW1TUh1TgIUZLNoAOnIWIsDj0v51Yh45-OyoDiQFJMI/edit?usp=sharing)
+* [Studio and catch up](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week9.md)
 * Assignment 2B work to be submitted this week.
 
 ###Part 4: Seeing
