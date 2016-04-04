@@ -3,7 +3,8 @@
 var socket = io.connect(window.location.origin);
 
 //Whenever the server emits 'new-spot', make a new object with the attributes received.
-//The push this new spot onto the array
+//Then push this new spot onto the array. Remember this is a call back function. It passes a function
+//as the second parameter and calls it when socket.io receives 'new-spot'.
 socket.on('new-spot', function (data) {
   var spot = new Spot(data.size, data.x, data.y, data.color);
   spots.push(spot);
@@ -67,24 +68,19 @@ function mousePressed() {
   var p = true;
   //run through array
   for (var i = spots.length-1; i >= 0; i--){
-    //if we are over a spot
-    if(dist(mouseX,mouseY, spots[i].x, spots[i].y)<spots[i].size/2){
+    //if we are over a spot and mouse is pressed
+    if(dist(mouseX,mouseY, spots[i].x, spots[i].y)<(spots[i].size/2)){
 
       spots.splice(i,1);//remove spot
-      socket.emit('kill-spot', {index:i});
+      socket.emit('kill-spot', {index:i}); //emit spot index to server.
 
       p=false; //set to false so we dont make another spot.
     }
-
+  }
     if(p){ //if true, make a new one.
       makeSpot();
       p=false;
-    }
   }
-
-
-
-
 }
 
 
@@ -107,17 +103,5 @@ function Spot(size, x, y, color) { //it has 3 arguments size, x and y
 Spot.prototype.display = function() {
   fill(this.color, 255, 255);
   ellipse(this.x,this.y,this.size,this.size);
-
-}
-
-
-
-Spot.prototype.remove=function(s){
-  //  if((this.over)&&(mouseIsPressed)){
-
-  //  }
-  //for (var i = particles.length-1; i >= 0; i--) { //go backwards
-
-  //  }
 
 }

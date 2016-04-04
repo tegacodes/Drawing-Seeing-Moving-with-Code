@@ -1,8 +1,8 @@
 ###Particle Systems
 
-* Review Chapter 4 on Particle Systems. 
+* Review Chapter 4 on Particle Systems.
 * P5js examples are in [this repostory here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/tree/gh-pages/code/Complete-Nature-of-Code-Examples-p5.js-master/chp04_systems)
-* Daniel Shiffman [videos on these concepts are here.](https://www.youtube.com/watch?v=vdgiqMkFygc&list=PLRqwX-V7Uu6Z9hI4mSgx2FlE5w8zvjmEy) 
+* Daniel Shiffman [videos on these concepts are here.](https://www.youtube.com/watch?v=vdgiqMkFygc&list=PLRqwX-V7Uu6Z9hI4mSgx2FlE5w8zvjmEy)
 
 ####Notes on arrays in Javascript:
 
@@ -54,7 +54,7 @@ var removedItem = fruits.splice(pos, 1); // this is how to remove an item
 // ["Strawberry", "Mango"]   
 ```
 
-When removing an element using a for loop, we must loop backwards, so we start at i=articles.length-1 and go back throuogh the array. 
+When removing an element using a for loop, we must loop backwards, so we start at i=articles.length-1 and go back throuogh the array.
 If you go forwards you continue to array.length but you've changed the length by deleting an element before you get there and it gets confused!
 
 ```javascript
@@ -73,10 +73,10 @@ See the examples on collisions in [this repository.](https://github.com/tegacode
 
 ####Sound Library
 
-[Download sound libary here](https://github.com/processing/p5.js-sound). To run examples. Download the zip, note where you save this folder. Run a local server from the folder, so the server should be running in the folder named 'p5.js-sound-master'. Then if you go to your browser and to http://localhost:8000/, you should see the examples listed. 
+[Download sound libary here](https://github.com/processing/p5.js-sound). To run examples. Download the zip, note where you save this folder. Run a local server from the folder, so the server should be running in the folder named 'p5.js-sound-master'. Then if you go to your browser and to http://localhost:8000/, you should see the examples listed.
 
 
 ####Deliverables
 
-* Project 2 Part 1 submission is due at the start of class the next time we meet. Prepare your project. 
-* Watch this talk by designer and developer [Robert Hodgin at Eyeo 2016 and see his unusual examples of particle systems.](https://vimeo.com/103537259) 
+* Project 2 Part 1 submission is due at the start of class the next time we meet. Prepare your project.
+* Watch this talk by designer and developer [Robert Hodgin at Eyeo 2016 and see his unusual examples of particle systems.](https://vimeo.com/103537259)

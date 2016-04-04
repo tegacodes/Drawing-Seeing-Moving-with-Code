@@ -23,17 +23,17 @@ io.on('connection', function (socket) {
     //emits to other clients.
     socket.broadcast.emit('new-spot', data);
   });
+  
+  //when client emits 'kill-spot', this listens and executes
+  socket.on('kill-spot', function (data) {
+    console.log("data.index:"+data.index);
 
-//when client emits 'kill-spot', this listens and executes
-socket.on('kill-spot', function (data) {
-  console.log("data.index:"+data.index);
+    for (var i = spots.length-1; i >= 0; i--){
+      spots.splice(data.index,1)
+    }
 
-  for (var i = spots.length-1; i >= 0; i--){
-    spots.splice(data.index,1)
-  }
-
-  //emits to other clients.
-  socket.broadcast.emit('kill-spot', data);
-});
+    //emits to other clients.
+    socket.broadcast.emit('kill-spot', data);
+  });
 
 });
