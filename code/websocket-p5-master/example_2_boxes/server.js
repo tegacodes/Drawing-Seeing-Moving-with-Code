@@ -3,10 +3,13 @@ var app = express();
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
 
+//Our array of boxes to draw to screen
 var boxes = [];
 
+//listen at port 5000
 server.listen(process.env.PORT || 5000);
 
+//serve public folder
 app.use(express.static('public'));
 // app.get('/', function (req, res) {
 //   res.sendfile(__dirname + '/public/index.html');

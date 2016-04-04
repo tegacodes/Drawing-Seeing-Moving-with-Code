@@ -63,6 +63,7 @@ function mouseDragged() {
   colorBox();
 }
 
+//BOX CLASS **************
 function Box(size, x, y) {
 	this.size = size;
 	this.x = x;
