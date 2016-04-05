@@ -19,7 +19,7 @@ function draw() {
 
   attractor.display();
 
-  for (var i = 0; i < movers.length; i++) {
+  for (var i = movers.length-1; i >= 0; i--){
     //var force = attractor.calculateAttraction(movers[i]);
   //  movers[i].applyForce(force);
 
