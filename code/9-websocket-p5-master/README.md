@@ -5,7 +5,8 @@ In this brief tutorial I'll cover how integrate web sockets (with socket.io) int
 
 ## Setting up a web server
 
-First we'll set up a basic web server using nodejs. Nodejs is a "javascript runtime" that works out of the browser. This just means that you write code in javascript, but can run it from the terminal rather than inside Chrome or Firefox.
+First we'll set up a basic web server using nodejs. Nodejs is a "javascript runtime" that works out of the browser. This just means that you write code in javascript, but can run it from the terminal rather than inside Chrome or Firefox. It is useful as it can run on a server to serve context. 
+For a video introduction to Node see [this Shiffman video.](https://www.youtube.com/watch?v=RF5_MPSNAtU)
 
 ### Extremely quick introduction to nodejs
 
@@ -15,9 +16,11 @@ First we'll set up a basic web server using nodejs. Nodejs is a "javascript runt
 
 ### Installing packages with npm
 
+NPM is node's package manager. It comes with node for free and manages extra code modules (packages!) that we might want to use with node ([Video tutorial on npm here](https://www.youtube.com/watch?v=s70-Vsud9Vk&nohtml5=False)).   
+
 Make a new folder, and navigate to that folder in the terminal.
 
-Before we create the server we'll set up a `package.json` file. This file contains the name of our project and a list of all of its depencies.
+Before we create the server we'll set up a `package.json` file. This file contains the name of our project and a list of all of its depencies.  
 
 In the terminal type:
 
@@ -25,7 +28,7 @@ In the terminal type:
 npm init
 ```
 
-Give your project a name, and feel free to fill out the rest of the prompts, or just leave them blank. If you type `cd` you'll see a new file called `package.json` in the directory. You can open it up in a text editor (or just type `more package.json`) and you should see that it's just a json file.
+You will be prompted to give your project a name, and fill out the rest of the questions, or just leave them blank. If you type `cd` you'll see a new file called `package.json` in the directory. You can open it up in a text editor (or just type `more package.json`) and you should see that it's just a json file.
 
 The next step is to install expressjs - a simple web framework that will help us serve files. Express is a nodejs package. These packages can be installed with a tool that comes with nodejs called `npm` (the node package manager).
 
@@ -70,6 +73,16 @@ node server.js
 ```javascript
 app.use(express.static('public'));
 ```
+
+To serve a simple page with a p5js sketch running your server.js file should look like this:
+```javascript
+var express = require('express')
+var app = express();
+
+app.use(express.static('public'));
+app.listen(process.env.PORT || 5000);
+```
+Your main html file and sketch.js file should be located in the public directory. Your main html file should be called index.html
 
 ### Socket.io
 
@@ -207,6 +220,17 @@ You should then be able to see your app online. THe boxes example is here: [http
 
 Or you can see yours at: 
 http://YOURHEROKUINSTANCENAME.herokuapp.com/
+
+###Troubleshooting
+Heroku not serving your app?
+Check:
+* Are your paths to p5js correct? 
+* Is your html file and your sketch.js file and any of your other javascript files located in the public folder?
+* Make sure you call your html file index.html to avoid issues. 
+* Has your repository got a Procfile, a package.json file and a gitignore file as specified here?
+* Has your folder got the node_modules folder (this is where express is installed)? If not, you have not installed express or sockets properly.
+* Will your p5js sketch run locally? Maybe its a problem with your code. 
+* Here is a [great guide for debugging code.](http://p5js.org/tutorials/debugging/)
 
 
 
