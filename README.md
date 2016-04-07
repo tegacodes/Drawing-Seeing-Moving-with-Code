@@ -86,7 +86,7 @@ Students will:
 
 * Assignment 2A due today
 * [Visiting artist Sam Lavigne](http://lav.io/) and a live web workshop.
-* [Tutorial repository here!!](https://github.com/antiboredom/websocket-p5)
+* [Tutorial repository here!!](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/code/9-websocket-p5-master/README.md)
 
 
 **Week 9**
