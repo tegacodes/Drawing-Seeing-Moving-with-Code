@@ -224,7 +224,7 @@ http://YOURHEROKUINSTANCENAME.herokuapp.com/
 ###Troubleshooting
 Heroku not serving your app?
 Check:
-* Are your paths to p5js correct? 
+* Are your paths to the p5js library correct? 
 * Is your html file and your sketch.js file and any of your other javascript files located in the public folder?
 * Make sure you call your html file index.html to avoid issues. 
 * Has your repository got a Procfile, a package.json file and a gitignore file as specified here?
