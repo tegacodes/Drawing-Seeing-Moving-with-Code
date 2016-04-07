@@ -92,3 +92,15 @@ You should then be able to see your app online. THe boxes example is here: [http
 
 Or you can see yours at:
 http://YOURHEROKUINSTANCENAME.herokuapp.com/
+
+
+###Troubleshooting
+Heroku not serving your app?
+Check:
+* Are your paths to the p5js library correct? 
+* Is your html file and your sketch.js file and any of your other javascript files located in the public folder?
+* Make sure you call your html file index.html to avoid issues. 
+* Has your repository got a Procfile, a package.json file and a gitignore file as specified here?
+* Has your folder got the node_modules folder (this is where express is installed)? If not, you have not installed express or sockets properly.
+* Will your p5js sketch run locally? Maybe its a problem with your code. 
+* Here is a [great guide for debugging code.](http://p5js.org/tutorials/debugging/)
