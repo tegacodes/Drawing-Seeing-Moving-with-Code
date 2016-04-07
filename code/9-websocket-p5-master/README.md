@@ -141,9 +141,9 @@ In `index.html`:
 #### Flocking socket example
 [see example_3]
 
-## Deploying to Heroku
+## Deploying your project to Heroku
 
-Make sure you have cd 'ed into the project folder that you want to deploy to heroku. 
+Make sure you have cd 'ed into the project folder that you want to deploy to heroku.
 ### Initialize a git repository
 
 Make your local folder a Git repository. This adds a .git folder to the current directory and makes it possible to start recording revisions of the project. It is a bit of software that tracks what version is in your local folder and what version is in your remote folder (on the server), it is what github is built with. You do this by:
@@ -162,14 +162,14 @@ echo 'node_modules/' >gitignore
 ###Authenticate with Heroku
 
 Sign up for a [Heroku account.](https://signup.heroku.com/www-header) Choose node.js as your development language. Login to your account and follow the instructions to download and install the Heroku toolkit for your operating system from here. (https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up).  
- 
+
 Login to heroku:  
 
 ```
 heroku login
 ```
 
-and enter your heroku user name and password. 
+and enter your heroku user name and password.
 
 ###Create Heroku instance and put your app on this server.
 
@@ -206,7 +206,7 @@ git commit -m 'initial commit'
 git push heroku master
 ```
 
-###Making Changes. 
+###Making Changes.
 If you make changes and need to update your repo, Commit your change to the git repo:
 
 ```
@@ -218,7 +218,7 @@ git push heroku master
 ###Where's my app?
 You should then be able to see your app online. THe boxes example is here: [http://boxes1.herokuapp.com/](http://boxes1.herokuapp.com/)
 
-Or you can see yours at: 
+Or you can see yours at:
 http://YOURHEROKUINSTANCENAME.herokuapp.com/
 
 ###Troubleshooting
