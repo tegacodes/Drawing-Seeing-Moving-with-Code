@@ -10,6 +10,9 @@
 * Documentation: To explain your project you are to either make a github markdown page or a pdf document that describes your project. This page should include. A title, your name, a description of what happens in your program, a short paragraph of the challenges/surprises your faced in the process, a list of the different species in your system, and at least 3 screen shots showing the evolution of your system. Add captions to these screen shots. This document should also have a link to a live version of this project online and a bibliography listing any references you may have used in the making of this project.
 * If you are using github for submissions, add this markdown file as a README.md to your project repository and add to your own course repository online. If you are submitting via Moodle, add your file to your project folder. Zip up the folder and upload to the class Moodle, labelling with your name and Assig2A
 
+
+See the [live web tutorial for the whole process of setting up a server.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/code/9-websocket-p5-master/README.md)
+
 ## Deploying your project to Heroku
 
 Make sure you have cd 'ed into the project folder that you want to deploy to heroku.
