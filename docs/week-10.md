@@ -3,7 +3,7 @@
 ##CLM Tracker Library
 * We will be experimenting with a JS face tracker library called CLM tracker in combination with p5js. [The repository for the library can be found here.](https://github.com/auduno/clmtrackr) 
 * If you are interested in a technical description and some of the math behind the library, here is a [description of how the CLM tracker works.](http://auduno.com/post/61888277175/fitting-faces)
-* Several example have been added to the class folder, thanks to Lauren McCarthy who prepared them. A zip of these can be downloaded here. 
+* Several example have been added to the class folder, thanks to Lauren McCarthy who prepared them. A zip of these can be [downloaded here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/code/910-faceTracker.zip) 
 
 #Deliverables
 * Reading: Golan Levin, 2006. [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers](http://www.flong.com/texts/essays/essay_cvad/)
