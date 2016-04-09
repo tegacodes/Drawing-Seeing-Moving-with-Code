@@ -20,9 +20,9 @@ function draw() {
   var positions = ctracker.getCurrentPosition();
   if(positions.length>0){
     fill(255);
-    var mouthTop = positions[60][0];
+    var mouthTop = positions[60][1];
     ellipse(positions[60][0],positions[60][1],8,8)
-    var mouthBottom = positions[57][0];
+    var mouthBottom = positions[57][1];
     fill(255,0,0);
     ellipse(positions[57][0],positions[57][1],8,8)
     var mouthSize = mouthBottom - mouthTop;
