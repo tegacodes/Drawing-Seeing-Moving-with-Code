@@ -89,7 +89,7 @@ Students will:
 * [Tutorial repository here!!](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/code/9-websocket-p5-master/README.md)
 
 
-**Week 9**
+**Week 9: Apr 4**
 
 * Another look: [Art on the live web](https://docs.google.com/presentation/d/1cW1TUh1TgIUZLNoAOnIWIsDj0v51Yh45-OyoDiQFJMI/edit?usp=sharing)
 * [Studio and catch up](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week9.md)
@@ -97,27 +97,26 @@ Students will:
 
 ###Part 4: Seeing
 
-**Week 10**
+**Week 10: Apr 11**
 
 * Computer vision and face as interface
-* p5js using OSC workshop, [from this code repository.](https://github.com/tegacodes/p5js-osc)
+* Face tracking workshop.
 
-**Week 11**
+**Week 11: Apr 18**
 
 * Final project proposal presentations
-* Kinect workshop
 
-**Week 12**
-
-* Studio time
-
-**Week 13**
+**Week 12: Apr 25**
 
 * Studio time
 
-**Week 14**
+**Make up session: Apr 28**
 
-* Final assignments due in class
+* Studio time
+
+**Week 14: May 2**
+
+* Final assignment presentations due in class
 
 
 ##Assigment Briefs
