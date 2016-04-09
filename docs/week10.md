@@ -9,4 +9,4 @@
 * Reading: Golan Levin, 2006. [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers](http://www.flong.com/texts/essays/essay_cvad/)
 * Develop a final project idea for this class. Prepare a 3 minute presentation describing what you will explore, what questions your project is exploring and what techniques you will use.
 * Create a face puppet (or do another face as interface project of your choosing!). A face puppet is an animated puppet that you can control with your face. Be creative! Your mission is to make something unexpected and surprising. See the video below for an example student response to this project. 
-[<img src="images/facev.png" width="600">]()
+[<img src="images/facev.png" width="600">](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/images/facev.png)
