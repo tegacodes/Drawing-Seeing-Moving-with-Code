@@ -46,7 +46,7 @@ Students will:
 
 * (No lecture)
 * Running a local server
-* Overview of objects in Javascript
+* [Overview of objects in Javascript](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week03.md)
 * Studio time - assignment 1 due for upload by midnight Monday
 
 
@@ -67,7 +67,7 @@ Students will:
 **Week 6: 29 Feb (omg it's a leap year)**
 
 * [Genetic Algorithms](https://docs.google.com/presentation/d/1vIWGYFmjf9XgswiAwNIHIg7y4FT0HnjhDBSFqtv_vHs/pub?start=false&loop=false&delayms=3000)
-* [Forces tutorial](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week06.md)
+* [Vectors review](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week06.md) again and [Forces tutorial](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week06a.md)
 
 **Week 7: 7 Mar**
 
