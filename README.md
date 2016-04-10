@@ -33,13 +33,13 @@ Students will:
 **Week 1: 25 Jan**
 
 * [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-1.md)
-* [Week 1 Tutorial: Git, Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week1.md)
+* [Week 1 Tutorial: Git, Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week01.md)
 * Remember there is a [list of basic p5js examples here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md)
 
 **Week 2: 1 Feb**
 
 * [Strange loops and animations](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md)
-* [Week 2: Loops and animations, and deliverables ](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week2.md)
+* [Week 2: Loops and animations, and deliverables ](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week02.md)
 
 
 **Week 3: 8 Feb**
@@ -62,16 +62,16 @@ Students will:
 **Week 5: 22 Feb**
 
 * [Intro to Artificial Life and Simulation](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-5.md)
-* [Vectors](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week5.md)
+* [Vectors](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week05.md)
 
 **Week 6: 29 Feb (omg it's a leap year)**
 
 * [Genetic Algorithms](https://docs.google.com/presentation/d/1vIWGYFmjf9XgswiAwNIHIg7y4FT0HnjhDBSFqtv_vHs/pub?start=false&loop=false&delayms=3000)
-* [Forces tutorial](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week6.md)
+* [Forces tutorial](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week06.md)
 
 **Week 7: 7 Mar**
 
-* [Particle systems](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week7.md)
+* [Particle systems](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week07.md)
 * Studio time
 
 **14 Mar: No class**
@@ -92,7 +92,7 @@ Students will:
 **Week 9: Apr 4**
 
 * Another look: [Art on the live web](https://docs.google.com/presentation/d/1cW1TUh1TgIUZLNoAOnIWIsDj0v51Yh45-OyoDiQFJMI/edit?usp=sharing)
-* [Studio and catch up](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week9.md)
+* [Studio and catch up](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week09.md)
 * Assignment 2B work to be submitted this week.
 
 ###Part 4: Seeing
@@ -100,7 +100,7 @@ Students will:
 **Week 10: Apr 11**
 
 * Computer vision and face as interface
-* Face tracking workshop.
+* [Face tracking workshop.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week10.md)
 
 **Week 11: Apr 18**
 
