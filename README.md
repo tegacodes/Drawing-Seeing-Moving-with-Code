@@ -99,7 +99,7 @@ Students will:
 
 **Week 10: Apr 11**
 
-* Computer vision and face as interface
+* [Computer vision and face as interface](https://docs.google.com/presentation/d/1UzNrsJzWM7DZCcHeaiYIyaqgOIAc8TVgMYi_ulqlgj4/edit?usp=sharing)
 * [Face tracking workshop.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week10.md)
 
 **Week 11: Apr 18**
