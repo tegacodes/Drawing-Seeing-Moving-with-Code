@@ -1,57 +1,45 @@
-//LITERAL OBJECT
-
-//Array
-var bubbles =[];
+//face tracker object is called ctracker
+var ctracker;
 
 function setup() {
-  createCanvas(480, 270);
-  stroke(0);
-  fill(0,0,255);
+  //set up camera capture
+  var videoInput = createCapture();
+  //set resolution of capture
+  videoInput.size(400,300);
+  //set position of capture.
+  videoInput.position(0,0);
 
+  //set canvas
+  var cnv=createCanvas(400,300);
+  cnv.position(0, 0);
+
+  //setup our face tracker
+  ctracker = new clm.tracker();
+  ctracker.init(pModel);
+  //passing the video input to the tracker object
+  ctracker.start(videoInput.elt);
+  noStroke();
 }
 
 function draw() {
-  background(255,0,0);
-  for(var i=0;i<bubbles.length;i++){
-  bubbles[i].displayBubble();
-  bubbles[i].move();
-  //dot operator refers to x within the bubble object
-  println(bubbles.length);
-}
+  clear();
+  //getCurrentPosition(); function gets our array of points
+  //that are mapped from the face
+  //putting this array of points into a array called positions
+  var positions = ctracker.getCurrentPosition();
 
-}
+  //check positions array is loaded
+  if(positions.length>0){
+    fill(255);
 
-function mouseDragged(){
-  //every time I press the mouseX
-  //add a bubble onto the end of the array
-bubbles.push(new Bubble(mouseX,mouseY));
-//push() function adds to the end of the array
-//splice(); removes index positions form the array
+    var topMouth = positions[47][1];
+    var bottomMouth = positions[53][1];
 
-}
+    var mouthOpen = bottomMouth - topMouth;
 
-function keyPressed(){
+    println(mouthOpen);
 
-  bubbles.splice(0,1);
-//splice(index you want to remove, how many from that point)
-}
+    ellipse(positions[47][0],positions[47][1], mouthOpen,mouthOpen);
 
-//USING THE CONSTUCTOR FUNCTION SYNTAX
-//THIS IS LIKE A CLASS
-//TEMPLATE FOR OUR OBJECT - use a capital
-function Bubble(dx, dy) {
-  //data
-  this.x=dx;  //note that each thing in our list
-  this.y=dy; //ends with a comma
-
-  //function
-  this.displayBubble= function(){
-    stroke(0,255,0);
-    ellipse(this.x,this.y,20,20);
-  };
-
-  this.move= function(){
-    this.x=this.x+random(-1,1);
-    this.y= this.y+random(-1,1);
   }
 }
