@@ -5,6 +5,8 @@
 * If you are interested in a technical description and some of the math behind the library, here is a [description of how the CLM tracker works.](http://auduno.com/post/61888277175/fitting-faces)
 * Several example have been added to the class folder, thanks to Lauren McCarthy who prepared them. A zip of these can be [downloaded here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/code/910-faceTracker.zip)
  
+
+* Link to p5js dom library online: [https://cdn.jsdelivr.net/p5.js/0.4.21/addons/p5.dom.js](https://cdn.jsdelivr.net/p5.js/0.4.21/addons/p5.dom.js)
 ###How can I use this library?
 * The reference for the library [is here. ](http://auduno.github.io/clmtrackr/docs/reference.html)
 From the first face tracker example:
