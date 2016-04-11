@@ -44,6 +44,11 @@ if(positions.length>0){ //check the positions array is not empty
 ```
 You can then use an if statement to make something happen if the mouth opens or closes!
 
+#More face resources.
+* [Kyle McDonald's fantastic repository in faces in media art and computer science.](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2)
+* [Adam Harvey interview on face detection algorithms](https://vimeo.com/39561082)
+* [Kyle McDonald interview on face detection tool called Face tracker.](https://vimeo.com/39034692)
+
 
 #Deliverables
 * Reading: Golan Levin, 2006. [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers](http://www.flong.com/texts/essays/essay_cvad/)
