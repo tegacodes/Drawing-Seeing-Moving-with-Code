@@ -48,6 +48,7 @@ You can then use an if statement to make something happen if the mouth opens or 
 * [Kyle McDonald's fantastic repository in faces in media art and computer science.](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2)
 * [Adam Harvey interview on face detection algorithms](https://vimeo.com/39561082)
 * [Kyle McDonald interview on face detection tool called Face tracker.](https://vimeo.com/39034692)
+* [This fantastic project by Mary Huang that generates a type face based on an individual's face.]{http://www.creativeapplications.net/processing/typeface-processing/)
 
 
 #Deliverables
