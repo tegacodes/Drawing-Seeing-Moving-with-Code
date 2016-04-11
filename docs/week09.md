@@ -56,12 +56,11 @@ https://filebotty.herokuapp.com/ | https://git.heroku.com/filebotty.git
 
 You can check also this worked by going to the heroku website and now looking at the menu option myApps where you should see the name of your app in the list.  
 
-Add a Procfile (Heroku needs this in order to know what to do with your server). Create a new file called Procfile (no extension) if there is not one already in your repo, and stick this in:
-
+Add a Procfile (this is a config file that Heroku needs in order to know what to do with your server). Create a new file called Procfile (no extension) if there is not one already in your project file. This file should contain the line of code:
 ```
 web: node server.js
 ```
-You can do this as follows:
+You can use the terminal to create the Procfile by copying this line of code into your terminal window and running it. Your terminal must be located in your project folder:
 ```
 echo 'web: node server.js' >Procfile
 ```
