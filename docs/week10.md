@@ -21,6 +21,9 @@ ctracker.start(videoInput.elt); //input a video feed for it to analyze
 ```
 The tracker will output an array of points that are numbered to describe certain features of a face. The point number corrospond to facial features as shown:
 
+<img src="https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/images/tracker.png" width="600">
+
+
 In void draw, the getCurrentPosition() function returns a 2d array of these points. 
 ```
 // get array of face marker positions [x, y] format
@@ -45,6 +48,12 @@ if(positions.length>0){ //check the positions array is not empty
   }
 ```
 You can then use an if statement to make something happen if the mouth opens or closes!
+
+#To run the examples in the code folder. 
+* Make sure you are running the local python server from the folder called 910-faceTracker/. To do this, navigate to this folder in your terminal. Then at this location run the simple python server: 
+```python -m SimpleHTTPServer 8000```
+Then in your browser, your sketch should be running at http://localhost:8000/ 
+* If you run the server from one of the sketch folders instead of from the 910-faceTracker/ folder you will get errors as the library folders are sitting a level above this. Be wary!
 
 #More face resources.
 * [Kyle McDonald's fantastic repository in faces in media art and computer science.](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2)
