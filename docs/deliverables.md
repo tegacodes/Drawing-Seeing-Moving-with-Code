@@ -17,7 +17,7 @@ This class is also structured by a series of projects, their briefs will be post
 ###Project 2B - Live Web
 *Due end of Week 9*
 
-###Project 4 - Final Project
+###[Project 4 - Final Project](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project4.md)
 *Due Week 14*
 
 ##Discovery and Research Posts
