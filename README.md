@@ -32,7 +32,7 @@ Students will:
 
 **Week 1: 25 Jan**
 
-* [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-1.md)
+* [Introductions and code as medium.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-01.md)
 * [Week 1 Tutorial: Git, Intro to p5js, and deliverables](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week01.md)
 * Remember there is a [list of basic p5js examples here.](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/basicExamples.md)
 
@@ -61,7 +61,7 @@ Students will:
 
 **Week 5: 22 Feb**
 
-* [Intro to Artificial Life and Simulation](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-5.md)
+* [Intro to Artificial Life and Simulation](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-05.md)
 * [Vectors](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week05.md)
 
 **Week 6: 29 Feb (omg it's a leap year)**
@@ -91,7 +91,7 @@ Students will:
 
 **Week 9: Apr 4**
 
-* Another look: [Art on the live web](https://docs.google.com/presentation/d/1cW1TUh1TgIUZLNoAOnIWIsDj0v51Yh45-OyoDiQFJMI/edit?usp=sharing)
+* Another look: [Art on the live web](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/lectures/L-09.md)
 * [Studio and catch up](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/week09.md)
 * Assignment 2B work to be submitted this week.
 
