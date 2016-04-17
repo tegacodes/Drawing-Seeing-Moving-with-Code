@@ -12,3 +12,8 @@ Your project should aim to create a evocative or compelling experience for your 
 - If you are choosing to do a live web project, your project should also be hosted on Heroku and a link should be included in your project description.
 
 
+###Project due dates:
+Project presentations: 11.30am May 2nd.
+
+Final code and online project submissions: Midnight May 2nd. 
+
