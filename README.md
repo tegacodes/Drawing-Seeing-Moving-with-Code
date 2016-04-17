@@ -122,4 +122,4 @@ Students will:
 ##Assigment Briefs
 * [Assignment 1](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md) - Due Week 3
 * [Assignment 2A and 2B](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project2.md) - Due Week 8
-* Assignment 3 - Due Week 14
+* [Assignment 3 - Due Week 14](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project4.md)
