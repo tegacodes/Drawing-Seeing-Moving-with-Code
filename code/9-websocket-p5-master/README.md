@@ -1,6 +1,8 @@
 # Making Interactive, Multi-User Environments with p5js and Socket.io
 A tutorial by [Sam Lavigne.](https://github.com/antiboredom/)
 
+Update: Since we did this tutorial, the wonderous Dan Shiffman has published [this series of videos on this topic!](https://www.youtube.com/watch?v=bjULmG8fqc8&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH)
+
 In this brief tutorial I'll cover how integrate web sockets (with socket.io) into a p5js sketch.
 
 ## Setting up a web server
