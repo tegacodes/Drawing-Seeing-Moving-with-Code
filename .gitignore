@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+ # exclude everything except directory foo/bar
+    
+  
+    /Drawing-Seeing-Moving-with-Code/docs*
+    /Drawing-Seeing-Moving-with-Code/images*
+ /Drawing-Seeing-Moving-with-Code/students*
+    !/Drawing-Seeing-Moving-with-Code/code
+     !/Drawing-Seeing-Moving-with-Code/students/nfeuer
+=======
 # OS generated files #
 ######################
 .DS_Store
@@ -10,3 +20,4 @@ Thumbs.db
 
 
 students/*
+>>>>>>> 6749283e5d8c0a6941f93127d121bc9462cd7416
