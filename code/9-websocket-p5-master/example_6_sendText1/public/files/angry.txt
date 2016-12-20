@@ -1,0 +1,1 @@
+﻿Angry. This is the text that is displayed when a user clicks the angry button.

@@ -1,0 +1,1 @@
+﻿Anxious text. This is the text that displays when somebody clicks “anxious” on the first screen.

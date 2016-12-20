@@ -16,6 +16,7 @@ socket.on('all-spots', function(allspots) {
   for (var i = 0; i < allspots.length; i ++) {
     var data = allspots[i];
     var spot = new Spot(data.size, data.x, data.y, data.color);
+    console.log(data.size +","+ data.x +","+ data.y +","+ data.color);
     spots.push(spot);
   }
 });
