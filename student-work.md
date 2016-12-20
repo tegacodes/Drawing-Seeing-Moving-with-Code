@@ -15,6 +15,3 @@ SpazSnake is a multi-user online game of snake.  Each user is allocated a color 
 
 ####Olivia Battell
 
-
-#Project 1: Lenticular Animation
-[See the exhibition site here](https://newmedia.purchase.edu/the-gifshop/)
