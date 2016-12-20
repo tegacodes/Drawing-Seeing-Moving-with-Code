@@ -2,7 +2,8 @@
 
 ##Attendance
 
-Miss 4 classes and you automatically fail. This is not negotiable. Miss 3 classes and lose a grade (so A+ goes to A etc). Come to class late – after 8.45 or leave early – before 11.55 and that counts as half an absence.
+Miss 4 classes and you automatically fail. This is not negotiable.   
+Miss 3 classes and lose a grade (so A+ goes to A etc). Come to class late – after 8.45 or leave early – before 11.55 and that counts as half an absence.  
 
 ##Accommodations
 
