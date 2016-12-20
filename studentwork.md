@@ -1,11 +1,10 @@
-Project 3: Final project
+###Project 3: Final project
 
-Project 2: Ecosystems
+###Project 2: Ecosystems
 
-Project 1: Lenticular animation
+###Project 1: Lenticular animation
 
-<p><strong>Homework 2</strong></br>
-		Chaos to Order</p>
+###Homework 2: Chaos to Order
 		<ul>
 			<li><a target="_blank" href="http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/students/adrianalfonso/day1/Chaos/index.html">Adrian Alfonso</a></li>
 			<li><a target="_blank" href="http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/students/brendanrooney/rooneyWeek1ChaosToOrder/embed.html">Brendan Rooney </a></li>
@@ -24,4 +23,4 @@ Project 1: Lenticular animation
 			<li><a target="_blank"  href="http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/students/nickomalley/week1/100objects/100objects.html>Nick OMalley</a></li>
 			<li><a target="_blank" href="http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/students/kevinegbert/week1_dmsc_kae/sketch3_kae/sketch3.html">Kevin Egbert</a></li>
 			<li><a target="_blank" href="http://tegacodes.github.io/Drawing-Seeing-Moving-with-Code/students/oliviabattell/Week1/sketch3/sketch3.html">Olivia Battell</a></li>
-		</ul>
+
