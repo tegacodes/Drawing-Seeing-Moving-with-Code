@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title> Write to a stranger. </title>
+    <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+    <script src="libraries/p5.js" type="text/javascript"></script>
+
+    <script src="libraries/p5.dom.js" type="text/javascript"></script>
+    <script src="libraries/p5.sound.js" type="text/javascript"></script>
+
+    <script src="sketch.js" type="text/javascript"></script>
+    <script src="buttons.js" type="text/javascript"></script>
+    </script>
+  </head>
+  <body>
+
+    <!-- this delete ignoring script is adapted from Jim Blackler
+          http://jimblackler.net/BackspaceTrap.htm-->
+
+    <p id="keypressed"></p>
+   <script type="text/javascript" language="javascript">
+
+    // function to possibly override keypress
+    trapfunction = function(event)
+    {
+        var keynum;
+
+        if (window.event) // eg. IE
+        {
+            keynum = window.event.keyCode;
+        }
+        else if (event.which) // eg. Firefox
+        {
+            keynum = event.which;
+        }
+
+        if (keynum == 8) // backspace has code 8
+        {
+
+            return false;
+            // nullifies the backspace
+        }
+        return true;
+    }
+
+    document.onkeyup = function(event)
+    {
+          return true;
+    }
+
+    document.onkeydown = trapfunction; // IE, Firefox, Safari
+    document.onkeypress = trapfunction; // only Opera needs the backspace nullifying in onkeypress
+
+    </script>
+  </body>
+</html>

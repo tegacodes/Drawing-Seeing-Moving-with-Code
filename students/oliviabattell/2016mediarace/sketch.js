@@ -7,7 +7,7 @@ var mover5;
 //FORM/BUTTON VAR
 var input, button, greeting, greeting2;
 //KEY
-var keystuff="&api-key=e40e241ff44de5fa9cbfb13779033de2:13:75030069"
+var keystuff="&api-key=c56a49d9db1f101600bfc831b577c535:0:67550178"
 var bdate;
 //URL + SEARCH TERM FOR EACH CANDIDATE
 var trump="http://api.nytimes.com/svc/search/v2/articlesearch.json?callback=svc_search_v2_articlesearch&q=trump&begin_date=";
