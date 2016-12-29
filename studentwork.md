@@ -1,10 +1,24 @@
 ###Project 3: Final project
 
-
+* [Brendan Rooney](https://sleepy-retreat-70077.herokuapp.com/)
+* [Nick Feuer](http://spazsnake.herokuapp.com/)
+* [Adrian Alfonso]()
+* [Kevin Egbert]()
+* [Olivia Battell]()
+* [Nick OMalley]()
+* [Kevin Egbert]()
+* [Olivia Battell]()
 
 ###Project 2: Artificial Life
 
-
+* Brendan Rooney, [Echo Location.](https://echo-location.herokuapp.com/)
+* [Nick Feuer]()
+* [Adrian Alfonso]()
+* [Kevin Egbert]()
+* [Olivia Battell]()
+* [Nick OMalley]()
+* [Kevin Egbert]()
+* [Olivia Battell]()
 
 ###Project 1: Lenticular animation
 
