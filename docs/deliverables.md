@@ -11,13 +11,10 @@ This class is also structured by a series of projects, their briefs will be post
 ###[Project 1 - Strange Loops: Lenticular Animation](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project1.md)
 *To be uploaded Week 3 by midnight*
 
-###[Project 2A - Digital Ecosystem: Simulation and Artificial Life](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project2.md)
-*Due Week 8*
+###[Project 2 - Digital Ecosystem: Simulation and Artificial Life](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project2.md)
+*Due Week 9*
 
-###Project 2B - Live Web
-*Due end of Week 9*
-
-###[Project 4 - Final Project](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project4.md)
+###[Final Project](https://github.com/tegacodes/Drawing-Seeing-Moving-with-Code/blob/gh-pages/docs/project4.md)
 *Due Week 14*
 
 ##Discovery and Research Posts
