@@ -1,0 +1,33 @@
+body {
+	padding: 5px;
+	margin: 5px;
+	background:#ccefff;
+	font-family:Arial Narrow;
+	font-size:12px;
+	color: #ff9999;
+	text-shadow: 1px 1px black;
+	text-decoration: none;
+} 
+
+a {
+	padding: 0px;
+	margin: 0px;
+	font-family:Arial Narrow;
+	font-size:16px;
+	color: #ff9999;
+	text-shadow: 1px 1px black;
+	text-decoration: none;
+
+}
+
+.about {
+	padding: 20px;
+	margin: 20px;
+	background:#ccefff;
+	font-family:Arial Narrow;
+	font-size:24px;
+	color: #ff9999;
+	text-shadow: 1px 1px black;
+	text-decoration: none;
+} 
+}

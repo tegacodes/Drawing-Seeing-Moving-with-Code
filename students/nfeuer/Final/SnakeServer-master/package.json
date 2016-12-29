@@ -1,0 +1,16 @@
+{
+  "name": "snakeserver",
+  "version": "1.0.0",
+  "description": "singleinstancesnake",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "nickfeuer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
