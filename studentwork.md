@@ -2,13 +2,13 @@
 
 
 
-###Project 2: Ecosystems
+###Project 2: Artificial Life
 
 
 
 ###Project 1: Lenticular animation
 
-Exhibition documentation here. 
+[Exhibition documentation here.](https://newmedia.purchase.edu/the-gifshop/)
 
 ###Homework 2: Chaos to Order
 
