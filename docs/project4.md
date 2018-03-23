@@ -1,6 +1,6 @@
-##Assignment 4
-Final Project
-*Due Week 14*
+## Assignment 4  
+Final Project  
+*Due Week 14*  
 
 The final project in this class is an open brief. Devise an artwork that is to build in the p5js environment and that explores an idea relating to one of the threads we have examined in class so far. This might be a project exploring that face as an interface, a generative system, a game, a very simple live web project using web sockets or something else completely different such as a data visualization using a data stream. 
 
